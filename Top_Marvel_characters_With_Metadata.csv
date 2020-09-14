@@ -1,0 +1,605 @@
+x,y,name,appearances,url,pic_id,superName,fullName,nickName
+-64.827324,-21.116581,Peter Parker ,4656,http://marvel.wikia.com/wiki/Peter_Parker_(Earth-616),0,Spider-Man,Peter Benjamin Parker,Peter Parker 
+-65.33126999999999,-20.446026,Steven Rogers ,3604,http://marvel.wikia.com/wiki/Steven_Rogers_(Earth-616),1,Captain America,"Steven ""Steve"" Rogers",Steve Rogers
+-65.12585,-20.42874,Anthony Stark ,3304,http://marvel.wikia.com/wiki/Anthony_Stark_(Earth-616),2,Iron Man,"Anthony Edward ""Tony"" Stark",Tony Stark
+-68.84261,-17.908754000000005,James Howlett ,3153,http://marvel.wikia.com/wiki/James_Howlett_(Earth-616),3,Wolverine,James Howlett,James Howlett 
+-64.594124,-20.097712,Thor Odinson ,2478,http://marvel.wikia.com/wiki/Thor_Odinson_(Earth-616),4,Thor,Thor Odinson,Thor Odinson 
+-61.981586,-20.891832,Benjamin Grimm ,2428,http://marvel.wikia.com/wiki/Benjamin_Grimm_(Earth-616),5,The Thing,"Benjamin Jacob ""Ben"" Grimm",Ben Grimm
+-62.030487,-20.747875,Reed Richards ,2205,http://marvel.wikia.com/wiki/Reed_Richards_(Earth-616),6,Mister Fantastic,Reed Richards,Reed Richards 
+-63.908398,-20.053534,Bruce Banner ,2165,http://marvel.wikia.com/wiki/Bruce_Banner_(Earth-616),7,Hulk,Robert Bruce Banner,Bruce Banner 
+-62.306236,-20.133617,Jonathan Storm ,2153,http://marvel.wikia.com/wiki/Jonathan_Storm_(Earth-616),8,Human Torch,"Jonathan Lowell Spencer ""Johnny"" Storm",Johnny Storm
+-70.1748,-16.067497,Scott Summers ,1977,http://marvel.wikia.com/wiki/Scott_Summers_(Earth-616),9,Cyclops,Scott Summers,Scott Summers 
+-68.98736,-17.708536,Henry McCoy ,1976,http://marvel.wikia.com/wiki/Henry_McCoy_(Earth-616),10,Beast,"Henry Philip ""Hank"" McCoy",Hank McCoy
+-62.86185500000001,-17.713,Susan Storm ,1809,http://marvel.wikia.com/wiki/Susan_Storm_(Earth-616),11,Invisible Woman,"Susan ""Sue"" Storm Richards",Sue Richards
+-69.17031,-17.278824,Ororo Munroe ,1781,http://marvel.wikia.com/wiki/Ororo_Munroe_(Earth-616),12,Storm,Ororo Munroe,Ororo Munroe 
+-64.37645,-18.76592,Clinton Barton ,1606,http://marvel.wikia.com/wiki/Clinton_Barton_(Earth-616),13,Hawkeye,"Clinton Francis ""Clint"" Barton",Clint Barton
+-63.14381,-19.446573,Namor McKenzie ,1597,http://marvel.wikia.com/wiki/Namor_McKenzie_(Earth-616),14,Sub-Mariner,Namor McKenzie,Namor McKenzie 
+-63.476513,-19.662344,Stephen Strange ,1545,http://marvel.wikia.com/wiki/Stephen_Strange_(Earth-616),15,Doctor Strange,Stephen Vincent Strange,Stephen Strange 
+-62.850857,-14.733542000000002,Matthew Murdock ,1516,http://marvel.wikia.com/wiki/Matthew_Murdock_(Earth-616),16,Daredevil,"Matthew Michael ""Matt"" Murdock",Matt Murdock
+-69.748886,-16.679651,Robert Drake ,1370,http://marvel.wikia.com/wiki/Robert_Drake_(Earth-616),17,Iceman,Robert Louis 'Bobby' Drake,Bobby Drake
+-59.85899000000001,-2.6140857000000004,John Jonah Jameson ,1360,http://marvel.wikia.com/wiki/John_Jonah_Jameson_(Earth-616),18,J. Jonah Jameson,"John Jonah Jameson, Jr.",John Jonah Jameson 
+-64.45966999999999,-18.005808,Wanda Maximoff ,1317,http://marvel.wikia.com/wiki/Wanda_Maximoff_(Earth-616),19,Scarlet Witch,Wanda Maximoff,Wanda Maximoff 
+-59.629475,-2.4177656,Mary Jane Watson ,1313,http://marvel.wikia.com/wiki/Mary_Jane_Watson_(Earth-616),20,Mary Jane Watson,"Mary Jane ""MJ"" Watson",MJ Watson
+-64.315216,-17.506382000000002,Henry Pym ,1291,http://marvel.wikia.com/wiki/Henry_Pym_(Earth-616),21,Giant-Man,"Henry Jonathan ""Hank"" Pym",Hank Pym
+-69.65108000000001,-16.901155,Warren Worthington III ,1286,http://marvel.wikia.com/wiki/Warren_Worthington_III_(Earth-616),22,Angel/Archangel,Warren Kenneth Worthington III,Warren Worthington III 
+-69.424355,-14.561708,Piotr Rasputin ,1278,http://marvel.wikia.com/wiki/Piotr_Rasputin_(Earth-616),23,Colossus,"Piotr ""Peter"" Nikolaievitch Rasputin",Peter Rasputin
+-69.53998,-15.077182,Charles Xavier ,1275,http://marvel.wikia.com/wiki/Charles_Xavier_(Earth-616),24,Professor X,Dr. Charles Francis Xavier,Charles Xavier 
+-62.84466,-16.47691,Janet van Dyne ,1224,https://marvel.fandom.com/wiki/Janet_Van_Dyne_(Earth-616),604,Wasp,Janet Van Dyne,Janet van Dyne 
+-63.32141,-18.795132,Carol Danvers ,1223,http://marvel.wikia.com/wiki/Carol_Danvers_(Earth-616),26,Captain Marvel,Carol Susan Jane Danvers (Human name)Car-Ell (Kree name),Carol Danvers 
+-63.224102,7.2317557,Nicholas Fury ,1212,http://marvel.wikia.com/wiki/Nicholas_Fury_(Earth-616),27,The Unseen,Nicholas Joseph 'Nick' Fury,Nick Fury
+-69.35401999999999,-16.589798000000002,Kurt Wagner ,1206,http://marvel.wikia.com/wiki/Kurt_Wagner_(Earth-616),28,Nightcrawler,Kurt Wagner (legally changed from Kurt Szardos),Kurt Wagner 
+-63.416462,-18.835392,Natalia Romanova ,1204,http://marvel.wikia.com/wiki/Natalia_Romanova_(Earth-616),29,Black Widow,"Natalia Alianovna ""Natasha"" Romanova (birth name);Natalia Alianovna Shostakova (married name)",Natasha name)
+-63.533527,-16.952503,Vision ,1189,http://marvel.wikia.com/wiki/Vision_(Earth-616),30,Vision,"""The Vision"" (Inapplicable, brain patterns based on those of Wonder Man and Alex Lipton)",The Vision Lipton)
+-68.373924,-13.677663,Jean Grey ,1106,http://marvel.wikia.com/wiki/Jean_Grey_(Earth-616),31,Marvel Girl,Jean Elaine Grey-Summers,Jean Grey 
+-63.39384,-17.417355999999998,Jennifer Walters ,1080,http://marvel.wikia.com/wiki/Jennifer_Walters_(Earth-616),32,She-Hulk,"Jennifer Susan ""Jen"" Walters",Jen Walters
+-69.51844,-15.305337,Katherine Pryde ,1070,http://marvel.wikia.com/wiki/Katherine_Pryde_(Earth-616),33,Red Queen,"Katherine Anne ""Kate"" Pryde",Kate Pryde
+-61.602787,-18.148243,Luke Cage ,1050,http://marvel.wikia.com/wiki/Luke_Cage_(Earth-616),34,Luke Cage,Luke Cage (legally changed from Carl Lucas),Luke Cage 
+-59.11335,-2.039176,May Reilly ,1022,https://marvel.fandom.com/wiki/Maybelle_Reilly_(Earth-616),605,May Parker,"Maybelle ""May"" Parker-Jameson, née Reilly",May Reilly
+-69.08169000000001,-14.11288,Rogue (Anna Marie) ,1013,http://marvel.wikia.com/wiki/Rogue_(Anna_Marie)_(Earth-616),36,Rogue,Anna Marie LeBeau (maiden name unknown),Rogue (Anna Marie) 
+-59.24495699999999,-8.505517999999999,Frank Castle ,974,http://marvel.wikia.com/wiki/Frank_Castle_(Earth-616),37,The Punisher,Frank G. Castle(legally changed from Francis Castiglione),Frank Castle 
+-69.00858000000001,-11.971929,Emma Frost ,929,http://marvel.wikia.com/wiki/Emma_Frost_(Earth-616),38,White Queen,Emma Grace Frost,Emma Frost 
+-60.922573,-11.374611,Wade Wilson ,876,http://marvel.wikia.com/wiki/Wade_Wilson_(Earth-616),39,Deadpool,Wade Winston Wilson,Wade Wilson 
+-63.685497,-17.22249,Pietro Maximoff ,866,http://marvel.wikia.com/wiki/Pietro_Maximoff_(Earth-616),40,Quicksilver,Pietro Django Maximoff,Pietro Maximoff 
+-61.704365,-14.46892,Victor von Doom ,857,http://marvel.wikia.com/wiki/Victor_von_Doom_(Earth-616),41,Doctor Doom,Victor von Doom,Victor von Doom 
+-69.31595,-16.228882000000002,Max Eisenhardt ,826,http://marvel.wikia.com/wiki/Max_Eisenhardt_(Earth-616),42,Magneto,Max Eisenhardt,Max Eisenhardt 
+-59.82481,-16.895208,Samuel Wilson ,809,http://marvel.wikia.com/wiki/Samuel_Wilson_(Earth-616),43,Falcon,"Samuel Thomas ""Sam"" Wilson",Sam Wilson
+-62.983246,-16.625032,Hercules ,807,http://marvel.wikia.com/wiki/Hercules_(Earth-616),44,Hercules,Hercules Panhellenios ; (Birth name: Alcaeus; was renamed Herakles and then later personally changed his name again to Hercules in order to further distance himself from Hera due to all the tragedies she'd helped bring upon him.),Hercules 
+-68.34716,-12.045285,Elizabeth Braddock ,780,http://marvel.wikia.com/wiki/Elizabeth_Braddock_(Earth-616),45,Captain Britain,"Elizabeth ""Betsy"" Braddock",Betsy Braddock
+-58.07948,-1.4993204,Joseph Robertson ,776,http://marvel.wikia.com/wiki/Joseph_Robertson_(Earth-616),46,Robbie Robertson,"Joseph ""Robbie"" Robertson",Robbie Robertson
+-58.617813,-1.7717599,Eugene Thompson ,773,http://marvel.wikia.com/wiki/Eugene_Thompson_(Earth-616),47,Agent Anti-Venom,"Eugene ""Flash"" Thompson",Flash Thompson
+40.62748,6.9638176,Conan ,760,http://marvel.wikia.com/wiki/Conan_(Earth-616),48,Conan of Cimmeria,Conan,Conan 
+-60.84841,-17.348469,Daniel Rand ,756,http://marvel.wikia.com/wiki/Daniel_Rand_(Earth-616),49,Iron Fist,"Daniel Thomas ""Danny"" Rand-K'ai","Danny"" Rand-K Rand-K'ai"
+-63.11986,-12.555298,Norrin Radd ,747,http://marvel.wikia.com/wiki/Norrin_Radd_(Earth-616),50,Silver Surfer,Norrin Radd,Norrin Radd 
+-61.481155,-15.999939,Simon Williams ,737,http://marvel.wikia.com/wiki/Simon_Williams_(Earth-616),51,Wonder Man,Simon Williams,Simon Williams 
+-71.561516,-9.977334,Samuel Guthrie ,729,http://marvel.wikia.com/wiki/Samuel_Guthrie_(Earth-616),52,Cannonball,"Samuel Zachery ""Sam"" Guthrie",Sam Guthrie
+-68.56971,-13.707207,Remy LeBeau ,721,http://marvel.wikia.com/wiki/Remy_LeBeau_(Earth-616),53,Gambit,Remy Etienne LeBeau,Remy LeBeau 
+-60.14307,-6.53951,Venom (Klyntar) ,721,http://marvel.wikia.com/wiki/Venom_(Klyntar)_(Earth-616),54,Venom,Unknown (The symbiote takes the name of its current host),Venom (Klyntar) 
+-56.904648,-16.727608,James Buchanan Barnes ,714,http://marvel.wikia.com/wiki/James_Buchanan_Barnes_(Earth-616),55,Winter Soldier,James Buchanan Barnes,James Buchanan Barnes 
+-60.70231,-5.197157,Norman Osborn ,693,http://marvel.wikia.com/wiki/Norman_Osborn_(Earth-616),56,Norman Osborn,Norman Virgil Osborn,Norman Osborn 
+-67.709564,-11.030486,Nathan Summers ,678,http://marvel.wikia.com/wiki/Nathan_Summers_(Earth-616),57,Cable,Nathan Christopher Charles Summers,Nathan Summers 
+-53.65000500000001,-6.2394037,Richard Jones ,649,http://marvel.wikia.com/wiki/Richard_Jones_(Earth-616),58,Rick Jones,"Richard Milhouse ""Rick"" Jones",Rick Jones
+-56.18253299999999,0.38363257,Elizabeth Brant ,643,http://marvel.wikia.com/wiki/Elizabeth_Brant_(Earth-616),59,Betty Brant,"Elizabeth ""Betty"" Brant",Betty Brant
+-63.212215,7.229284,Timothy Dugan ,629,http://marvel.wikia.com/wiki/Timothy_Dugan_(Earth-616),60,Dum Dum Dugan,"Timothy ""Tim"" Aloysius Cadwallader Dugan",Tim Dugan
+-58.106895,-14.763945,Edwin Jarvis ,629,http://marvel.wikia.com/wiki/Edwin_Jarvis_(Earth-616),61,Edwin Jarvis,Edwin Jarvis,Edwin Jarvis 
+-60.46354300000001,-16.863312,Jessica Drew ,618,http://marvel.wikia.com/wiki/Jessica_Drew_(Earth-616),62,Spider-Woman,"Jessica Miriam ""Jess"" Drew",Jess Drew
+-58.655914,17.674791,Odin Borson ,608,http://marvel.wikia.com/wiki/Odin_Borson_(Earth-616),63,All-Father Odin,Odin Borson,Odin Borson 
+-68.07016,-13.588917000000002,Alexander Summers ,601,http://marvel.wikia.com/wiki/Alexander_Summers_(Earth-616),64,Havok,"Alexander ""Alex"" Summers",Alex Summers
+-45.67305,-16.046898000000002,Patricia Walker ,596,http://marvel.wikia.com/wiki/Patricia_Walker_(Earth-616),65,Hellcat,"Patricia ""Patsy"" Walker",Patsy Walker
+-64.13429000000001,-7.9211073,Crystalia Amaquelin ,594,http://marvel.wikia.com/wiki/Crystalia_Amaquelin_(Earth-616),66,Crystal,Crystalia Amaquelin,Crystalia Amaquelin 
+-59.416595,-15.191555,James Rhodes ,581,http://marvel.wikia.com/wiki/James_Rhodes_(Earth-616),67,War Machine,"James Rupert ""Jim"" Rhodes",Jim Rhodes
+-18.882252,42.57196,Human Torch (Android) ,576,http://marvel.wikia.com/wiki/Human_Torch_(Android)_(Earth-616),68,Human Torch,The Human Torch,Human Torch (Android) 
+-64.1506,-7.830128999999999,Medusalith Amaquelin ,569,http://marvel.wikia.com/wiki/Medusalith_Amaquelin_(Earth-616),69,Commander Medusa,Medusalith Amaquelin-Boltagon,Medusalith Amaquelin 
+-54.054543,-6.411739,Thaddeus Ross ,562,http://marvel.wikia.com/wiki/Thaddeus_Ross_(Earth-616),70,Gen. Thunderbolt Ross,"Thaddeus E. ""Thunderbolt"" Ross",Thunderbolt Ross
+-51.657604,-2.9192972000000004,Franklin Nelson ,559,http://marvel.wikia.com/wiki/Franklin_Nelson_(Earth-616),71,Foggy Nelson,"Franklin Percy ""Foggy"" Nelson",Foggy Nelson
+-58.40691800000001,4.112545,Franklin Richards ,557,http://marvel.wikia.com/wiki/Franklin_Richards_(Earth-616),72,Powerhouse,Franklin Benjamin Richards,Franklin Richards 
+-42.033085,-24.001354,Brian Braddock ,554,http://marvel.wikia.com/wiki/Brian_Braddock_(Earth-616),73,Captain Britain,Brian Braddock,Brian Braddock 
+-58.374237,17.073784,Loki Laufeyson ,550,http://marvel.wikia.com/wiki/Loki_Laufeyson_(Earth-616),74,Loki,Loki Laufeyson,Loki Laufeyson 
+-71.44870999999998,-10.0568695,Roberto da Costa ,546,http://marvel.wikia.com/wiki/Roberto_da_Costa_(Earth-616),75,Sunspot,"Roberto ""Bobby"" Da Costa",Bobby Costa
+-59.211365,-5.646378,Wilson Fisk ,545,http://marvel.wikia.com/wiki/Wilson_Fisk_(Earth-616),76,Mayor Fisk,Wilson Grant Fisk,Wilson Fisk 
+-59.96423299999999,-5.5054083,Otto Octavius ,526,http://marvel.wikia.com/wiki/Otto_Octavius_(Earth-616),77, Spider-Man,Otto Gunther Octavius,Otto Octavius 
+-70.74271,-10.606593,Illyana Rasputina ,519,http://marvel.wikia.com/wiki/Illyana_Rasputina_(Earth-616),78,Magik,Illyana Nikolievna Rasputina,Illyana Rasputina 
+-67.59634,-12.236817,Victor Creed ,502,http://marvel.wikia.com/wiki/Victor_Creed_(Earth-616),79,Sabretooth,Victor Creed,Victor Creed 
+-54.161766,-12.890808,Dane Whitman ,497,http://marvel.wikia.com/wiki/Dane_Whitman_(Earth-616),80,Black Knight,Dane Whitman,Dane Whitman 
+-47.88285,4.7139344,Harold Osborn ,495,http://marvel.wikia.com/wiki/Harold_Osborn_(Earth-616),81,Harry Osborn,"Harold Theopolis ""Harry"" Lyman (legally changed from Harold Theopolis Osborn, but still goes by Harry Osborn)",Harry Osborn)
+-57.202126,19.769667,Jane Foster ,487,http://marvel.wikia.com/wiki/Jane_Foster_(Earth-616),82,Valkyrie,Dr. Jane Foster,Jane Foster 
+-39.831,-25.897177,Lorna Dane ,484,http://marvel.wikia.com/wiki/Lorna_Dane_(Earth-616),83,Polaris,Lorna Sally Dane,Lorna Dane 
+-44.8376,-30.620182,Maria Hill ,482,http://marvel.wikia.com/wiki/Maria_Hill_(Earth-616),84,Maria Hill,Maria Hill,Maria Hill 
+-34.474846,-32.26399,Jubilation Lee ,480,http://marvel.wikia.com/wiki/Jubilation_Lee_(Earth-616),85,Jubilee,Jubilation Lee,Jubilation Lee 
+-39.3129,-26.541714,Rahne Sinclair ,468,http://marvel.wikia.com/wiki/Rahne_Sinclair_(Earth-616),86,Wolfsbane,"Rahne Sinclair (pronounced ""Rain"")","Rain ""Rain"")"
+-59.831287,-16.18584,Barbara Morse ,467,http://marvel.wikia.com/wiki/Barbara_Morse_(Earth-616),87,Mockingbird,"Dr. Barbara ""Bobbie"" Morse",Bobbie Morse
+-52.856335,-5.695958,Elizabeth Ross ,463,http://marvel.wikia.com/wiki/Elizabeth_Ross_(Earth-616),88,Harpy,"Elizabeth ""Betty"" Ross Talbot Banner",Betty Banner
+-3.0852087000000004,37.288166,Sif ,456,http://marvel.wikia.com/wiki/Sif_(Earth-616),89,Lady Sif,Sif,Sif 
+-55.189327,-19.335917,Marc Spector ,450,http://marvel.wikia.com/wiki/Marc_Spector_(Earth-616),90,Moon Knight,Marc Spector,Marc Spector 
+-52.063293,-12.950126,Galan ,449,http://marvel.wikia.com/wiki/Galan_(Earth-616),91,Galactus,Galan,Galan 
+-66.94242,-12.390179,Raven Darkholme ,448,http://marvel.wikia.com/wiki/Raven_Darkholme_(Earth-616),92,Mystique,Raven Darkholme,Raven Darkholme 
+-58.077103,19.568909,Volstagg ,447,http://marvel.wikia.com/wiki/Volstagg_(Earth-616),93,Volstagg,Volstagg,Volstagg 
+-60.56323199999999,-15.274135,Monica Rambeau ,446,http://marvel.wikia.com/wiki/Monica_Rambeau_(Earth-616),94,Spectrum,Monica Rambeau,Monica Rambeau 
+-64.20074,-7.496722,Blackagar Boltagon ,445,http://marvel.wikia.com/wiki/Blackagar_Boltagon_(Earth-616),95,Black Bolt,Blackagar Boltagon,Blackagar Boltagon 
+-58.55681600000001,17.384659,Balder Odinson ,439,http://marvel.wikia.com/wiki/Balder_Odinson_(Earth-616),96,Balder the Brave,Balder Odinson,Balder Odinson 
+-53.87845600000001,4.6856300000000015,Arthur Douglas ,434,http://marvel.wikia.com/wiki/Arthur_Douglas_(Earth-616),97,Drax the Destroyer,Arthur Sampson Douglas,Arthur Douglas 
+47.86969000000001,-9.766297,Blaine Colt ,433,http://marvel.wikia.com/wiki/Blaine_Colt_(Earth-616),98,Kid Colt,Blaine Colt,Blaine Colt 
+-51.557507,-1.2429231,Johnathon Blaze ,428,http://marvel.wikia.com/wiki/Johnathon_Blaze_(Earth-616),99,Ghost Rider,"Johnathon ""Johnny"" Blaze",Johnny Blaze
+-18.1795,-44.868393,Laura Kinney ,423,http://marvel.wikia.com/wiki/Laura_Kinney_(Earth-616),100,Wolverine,Laura Kinney,Laura Kinney 
+-57.278416,-3.3328983999999995,Ben Urich ,417,https://marvel.fandom.com/wiki/Benjamin_Urich_(Earth-616),606,Ben Urich,"Benjamin ""Ben"" Urich",Ben Urich
+-60.631046,-13.294199,Uatu ,412,http://marvel.wikia.com/wiki/Uatu_(Earth-616),102,The Watcher,Uatu,Uatu 
+-70.79516,-10.563592,Danielle Moonstar ,411,http://marvel.wikia.com/wiki/Danielle_Moonstar_(Earth-616),103,Mirage,"Danielle ""Dani"" Moonstar",Dani Moonstar
+-58.68866,17.940664,Hogun ,409,http://marvel.wikia.com/wiki/Hogun_(Earth-616),104,Hogun the Grim,Hogun,Hogun 
+-58.222137,18.900743,Fandral ,408,http://marvel.wikia.com/wiki/Fandral_(Earth-616),105,Fandral the Dashing,Fandral,Fandral 
+-62.97132,-12.560672,Thanos ,400,http://marvel.wikia.com/wiki/Thanos_(Earth-616),106,Thanos,Thanos,Thanos 
+-38.094868,-24.146738,Neena Thurman ,398,http://marvel.wikia.com/wiki/Neena_Thurman_(Earth-616),107,Domino,Neena Thurman,Neena Thurman 
+-50.088917,-17.016539,Richard Rider ,397,http://marvel.wikia.com/wiki/Richard_Rider_(Earth-616),108,Nova,"Richard ""Rich"" Rider",Rich Rider
+-17.7478,43.212364,Thomas Raymond ,389,http://marvel.wikia.com/wiki/Thomas_Raymond_(Earth-616),109,Toro,Thomas Raymond,Thomas Raymond 
+-53.48710300000001,-11.414077,Brunnhilde ,389,http://marvel.wikia.com/wiki/Brunnhilde_(Earth-616),110,Valkyrie,"Brunnhilde (also spelled Brunnhilda, Brunhilde, Brynhildr)",Brunnhilde 
+-57.106537,-1.4211267,Elizabeth Allan ,388,http://marvel.wikia.com/wiki/Elizabeth_Allan_(Earth-616),111,Liz Lyman,"Elizabeth ""Liz"" Allan",Liz Allan
+-56.994778,-3.3048005,Felicia Hardy ,388,http://marvel.wikia.com/wiki/Felicia_Hardy_(Earth-616),112,Black Cat,Felicia Sara Hardy,Felicia Hardy 
+-57.829067,-19.813139000000003,Edward Brock ,385,http://marvel.wikia.com/wiki/Edward_Brock_(Earth-616),113,Venom,"Edward Charles Allan ""Eddie"" Brock",Eddie Brock
+-57.31118000000001,-16.383337,Johann Shmidt ,384,http://marvel.wikia.com/wiki/Johann_Shmidt_(Earth-616),114,Red Skull,Johann Shmidt,Johann Shmidt 
+-34.407173,-32.250927000000004,Sean Cassidy ,384,http://marvel.wikia.com/wiki/Sean_Cassidy_(Earth-616),115,Banshee,Sean Cassidy,Sean Cassidy 
+-40.91429,-0.58369994,Wong ,383,http://marvel.wikia.com/wiki/Wong_(Earth-616),116,Wong,Wong,Wong 
+-32.714504,-12.827276,Sharon Carter ,381,http://marvel.wikia.com/wiki/Sharon_Carter_(Earth-616),117,Sharon Carter,Sharon Carter,Sharon Carter 
+-67.94693000000001,-12.192322,Alison Blaire ,381,http://marvel.wikia.com/wiki/Alison_Blaire_(Earth-616),118,Dazzler,"Alison ""Ali"" Blaire",Ali Blaire
+-57.0025,-12.829475,John Walker ,373,http://marvel.wikia.com/wiki/John_Walker_(Earth-616),119,U.S. Agent,John F. Walker,John Walker 
+-53.86111999999999,-17.412292,Karla Sofen ,373,http://marvel.wikia.com/wiki/Karla_Sofen_(Earth-616),120,Moonstone,Dr. Karla Sofen,Karla Sofen 
+-60.426228,-15.684497,Greer Grant ,372,http://marvel.wikia.com/wiki/Greer_Grant_(Earth-616),121,Tigra,Greer Grant Nelson,Greer Grant 
+-37.87093400000001,-24.191216,James Proudstar ,363,http://marvel.wikia.com/wiki/James_Proudstar_(Earth-616),122,Warpath,James Proudstar,James Proudstar 
+-58.97443000000001,-11.398278,Mephisto ,361,http://marvel.wikia.com/wiki/Mephisto_(Earth-616),123,Mephisto,Mephisto,Mephisto 
+-56.015697,0.43694952,Gwendolyne Stacy ,361,http://marvel.wikia.com/wiki/Gwendolyne_Stacy_(Earth-616),124,Gwen Stacy,"Gwendolyne Maxine ""Gwen"" Stacy",Gwen Stacy
+-4.8363705,-2.3163240000000003,Millicent Collins ,355,http://marvel.wikia.com/wiki/Millicent_Collins_(Earth-616),125,Millie the Model,"Millicent ""Millie"" Collins",Millie Collins
+-65.77280400000001,-0.22911014,Walter Langkowski ,346,http://marvel.wikia.com/wiki/Walter_Langkowski_(Earth-616),126,Walter Langkowski,Walter Langkowski,Walter Langkowski 
+-53.74614,4.801716000000001,Rocket Raccoon ,344,http://marvel.wikia.com/wiki/Rocket_Raccoon_(Earth-616),127,Rocket Raccoon,Rocket Raccoon,Rocket Raccoon 
+-64.30749499999999,-6.5640855,Karnak Mander-Azur ,344,http://marvel.wikia.com/wiki/Karnak_Mander-Azur_(Earth-616),128,Magister Karnak,Karnak Mander-Azur,Karnak Mander-Azur 
+-53.453316,7.9145923,Shang-Chi ,342,http://marvel.wikia.com/wiki/Shang-Chi_(Earth-616),129,Shang-Chi,Shang-Chi,Shang-Chi 
+-44.962063,-9.673699,Gorgon Petragon ,341,http://marvel.wikia.com/wiki/Gorgon_Petragon_(Earth-616),130,Gorgon,Gorgon Petragon,Gorgon Petragon 
+-59.61214,-6.6192594,William Baker ,341,http://marvel.wikia.com/wiki/William_Baker_(Earth-616),131,Sandman,William Baker,William Baker 
+-62.62019,-12.620137,Heather Douglas ,339,http://marvel.wikia.com/wiki/Heather_Douglas_(Earth-616),132,Moondragon,Heather Douglas,Heather Douglas 
+-49.86519600000001,-16.921389,Angelica Jones ,339,http://marvel.wikia.com/wiki/Angelica_Jones_(Earth-616),133,Firestar,"Angelica ""Angel"" Jones",Angel Jones
+-38.049835,-26.374104,Tabitha Smith ,338,http://marvel.wikia.com/wiki/Tabitha_Smith_(Earth-616),134,Boom-Boom,Tabitha Smith,Tabitha Smith 
+-56.821766,-8.098042,Mercedes Knight ,333,http://marvel.wikia.com/wiki/Mercedes_Knight_(Earth-616),135,Misty Knight,"Mercedes ""Misty"" Knight",Misty Knight
+-40.88017,-6.6136913,Alicia Masters ,333,http://marvel.wikia.com/wiki/Alicia_Masters_(Earth-616),136,Alicia Grimm,"Alicia Reiss Grimm, née Masters",Alicia Masters 
+-57.9327,-18.660261,Bullseye (Lester) ,331,http://marvel.wikia.com/wiki/Bullseye_(Lester)_(Earth-616),137,Bullseye,Lester (surname unknown),Bullseye (Lester) 
+-65.67495,-0.18100879,Jean-Paul Beaubier ,331,http://marvel.wikia.com/wiki/Jean-Paul_Beaubier_(Earth-616),138,Northstar,Jean-Paul Beaubier,Jean-Paul Beaubier 
+-57.84118,-19.646936,MacDonald Gargan ,330,http://marvel.wikia.com/wiki/MacDonald_Gargan_(Earth-616),139,Scorpion,"MacDonald ""Mac"" Gargan",Mac Gargan
+-60.57825,-11.268267,Cain Marko ,328,http://marvel.wikia.com/wiki/Cain_Marko_(Earth-616),140,Juggernaut,Cain Marko,Cain Marko 
+-65.38058000000001,-0.049076412,Eugene Judd ,327,http://marvel.wikia.com/wiki/Eugene_Judd_(Earth-616),141,Puck,Eugene Milton Judd,Eugene Judd 
+-39.14799,-25.435303,Forge ,322,http://marvel.wikia.com/wiki/Forge_(Earth-616),142,Forge,Unknown,Forge 
+-29.544994,7.212674000000002,Daniel Ketch ,317,http://marvel.wikia.com/wiki/Daniel_Ketch_(Earth-616),143,Spirit of Corruption,Daniel 'Danny' Ketch,Danny Ketch
+-47.410133,6.755988,Ben Reilly ,316,http://marvel.wikia.com/wiki/Ben_Reilly_(Earth-616),144,Scarlet Spider,"Benjamin ""Ben"" Reilly",Ben Reilly
+-37.8296,-1.0299299000000002,Virginia Potts ,316,http://marvel.wikia.com/wiki/Virginia_Potts_(Earth-616),145,Rescue,"Virginia ""Pepper"" Potts",Pepper Potts
+-51.82099,-3.466872,Elektra Natchios ,315,http://marvel.wikia.com/wiki/Elektra_Natchios_(Earth-616),146,Elektra,Elektra Natchios,Elektra Natchios 
+-57.12759000000001,-14.254659,Scott Lang ,314,http://marvel.wikia.com/wiki/Scott_Lang_(Earth-616),147,Ant-Man,Scott Edward Harris Lang,Scott Lang 
+-64.28586999999999,-6.7834406000000005,Lockjaw ,314,http://marvel.wikia.com/wiki/Lockjaw_(Earth-616),148,Lockjaw,Lockjaw,Lockjaw 
+-48.743088,-16.84123,Vance Astrovik ,311,http://marvel.wikia.com/wiki/Vance_Astrovik_(Earth-616),149,Justice,Vance Astrovik,Vance Astrovik 
+-48.43324000000001,-16.86949,Robert Baldwin ,309,http://marvel.wikia.com/wiki/Robert_Baldwin_(Earth-616),150,Speedball,Robert 'Robbie' Baldwin,Robbie Baldwin
+-46.072166,-30.079666,Jessica Jones ,307,http://marvel.wikia.com/wiki/Jessica_Jones_(Earth-616),151,Jessica Jones,Jessica Campbell Jones Cage,Jessica Jones 
+-2.621926,37.24137,Heimdall ,305,http://marvel.wikia.com/wiki/Heimdall_(Earth-616),152,Heimdall,Heimdall,Heimdall 
+-53.991398,-6.6060243000000005,Leonard Samson ,302,http://marvel.wikia.com/wiki/Leonard_Samson_(Earth-616),153,Doc Samson,"Dr. Leonard Samson (legally changed from Leonard Skivorski, Jr.)",Leonard Samson 
+-60.597363,-13.631185,Wendell Vaughn ,302,http://marvel.wikia.com/wiki/Wendell_Vaughn_(Earth-616),154,Quasar,Wendell Elvis Vaughn,Wendell Vaughn 
+-53.66575600000001,-17.1942,Abner Jenkins ,299,http://marvel.wikia.com/wiki/Abner_Jenkins_(Earth-616),155,MACH-X,Abner Ronald Jenkins,Abner Jenkins 
+-15.899295,48.840054,Gabriel Jones ,296,http://marvel.wikia.com/wiki/Gabriel_Jones_(Earth-616),156,Gabe Jones,"Gabriel ""Gabe"" Jones",Gabe Jones
+-30.891544,-9.30338,Melissa Gold ,294,http://marvel.wikia.com/wiki/Melissa_Gold_(Earth-616),157,Songbird,Melissa Joan Gold,Melissa Gold 
+-35.158590000000004,-27.109228,Moira Kinross ,290,http://marvel.wikia.com/wiki/Moira_Kinross_(Earth-616),158,Moira X,Dr. Moira Ann Kinross MacTaggert,Moira Kinross 
+-7.4691267,-18.134968,Peter Quill ,290,http://marvel.wikia.com/wiki/Peter_Quill_(Earth-616),159,Star-Lord,Peter Jason Quill,Peter Quill 
+-4.4585857,-2.3170915,Chili Storm ,287,http://marvel.wikia.com/wiki/Chili_Storm_(Earth-616),160,Chili Storm,Chili Storm,Chili Storm 
+-17.034613,-45.27347,Santo Vaccarro ,285,http://marvel.wikia.com/wiki/Santo_Vaccarro_(Earth-616),161,Rockslide,Santo Vaccarro,Santo Vaccarro 
+-39.94417,-26.178648000000006,James Madrox ,285,http://marvel.wikia.com/wiki/James_Madrox_(Earth-616),162,Multiple Man,James 'Jamie' Arthur Madrox,Jamie Madrox
+-55.449875,-11.504812,Theodore Sallis ,285,http://marvel.wikia.com/wiki/Theodore_Sallis_(Earth-616),163,Man-Thing,"Theodore ""Ted"" Sallis",Ted Sallis
+-56.734135,17.702920000000006,Amora ,284,http://marvel.wikia.com/wiki/Amora_(Earth-616),164,Enchantress,Amora,Amora 
+-27.104027,-30.043385,Warlock (Technarch) ,282,http://marvel.wikia.com/wiki/Warlock_(Technarch)_(Earth-616),165,Warlock,Warlock,Warlock (Technarch) 
+-64.30464,-6.362605599999998,Triton ,281,http://marvel.wikia.com/wiki/Triton_(Earth-616),166,Triton,Unknown,Triton 
+-31.835054,-25.614561,Phoenix Force ,276,http://marvel.wikia.com/wiki/Phoenix_Force_(Earth-616),167,Phoenix Force,Phoenix Force,Phoenix Force 
+-49.522346,-16.809364000000002,Namorita Prentiss ,275,http://marvel.wikia.com/wiki/Namorita_Prentiss_(Earth-616),168,Namorita,Namorita Prentiss,Namorita Prentiss 
+-37.24073,-27.198254,Theresa Cassidy ,275,http://marvel.wikia.com/wiki/Theresa_Cassidy_(Earth-616),169,Siryn,Theresa Maeve Rourke Cassidy,Theresa Cassidy 
+-51.407887,-12.885098,Adam Warlock ,274,http://marvel.wikia.com/wiki/Adam_Warlock_(Earth-616),170,Warlock,Adam Warlock,Adam Warlock 
+-32.873215,-17.224332999999998,Heather McNeil ,272,http://marvel.wikia.com/wiki/Heather_McNeil_(Earth-616),171,Vindicator,Heather McNeil Hudson,Heather McNeil 
+-38.06124000000001,-27.141043,Guido Carosella ,269,http://marvel.wikia.com/wiki/Guido_Carosella_(Earth-616),172,Strong Guy,Guido Carosella,Guido Carosella 
+-53.4213,4.9647512,Groot ,269,http://marvel.wikia.com/wiki/Groot_(Earth-616),173,Groot,Groot,Groot 
+-40.310844,-20.114904,Kevin Plunder ,269,http://marvel.wikia.com/wiki/Kevin_Plunder_(Earth-616),174,Ka-Zar,Lord Kevin Reginald Plunder,Kevin Plunder 
+-53.274075,-10.649941,Daimon Hellstrom ,266,http://marvel.wikia.com/wiki/Daimon_Hellstrom_(Earth-616),175,Hellstorm,Daimon Hellstrom,Daimon Hellstrom 
+-59.431587,-6.310895,Aleksei Sytsevich ,264,http://marvel.wikia.com/wiki/Aleksei_Sytsevich_(Earth-616),176,Rhino,Aleksei Mikhailovich Sytsevich,Aleksei Sytsevich 
+-33.14243,-32.466293,Monet St. Croix ,262,http://marvel.wikia.com/wiki/Monet_St._Croix_(Earth-616),177,M/Penance,Monet Yvette Clarisse Maria Therese St. Croix,Monet St. Croix 
+-40.894142,-24.0063,Lockheed ,261,http://marvel.wikia.com/wiki/Lockheed_(Earth-616),178,Lockheed,Unknown,Lockheed 
+32.43567,-40.847378000000006,Kamala Khan ,258,http://marvel.wikia.com/wiki/Kamala_Khan_(Earth-616),179,Ms. Marvel,Kamala Khan,Kamala Khan 
+-58.646126,-14.1152,Carl Creel ,256,http://marvel.wikia.com/wiki/Carl_Creel_(Earth-616),180,Absorbing Man,"Carl ""Crusher"" Creel",Crusher Creel
+-50.66443,0.33064598,Vlad Dracula ,255,http://marvel.wikia.com/wiki/Vlad_Dracula_(Earth-616),181,Dracula,Vlad Dracula,Vlad Dracula 
+-47.34147,4.8084173,Anna May ,254,http://marvel.wikia.com/wiki/Anna_May_(Earth-616),182,Anna Watson,Anna May Watson,Anna May 
+-37.845314,-27.03493,Julio Richter ,253,http://marvel.wikia.com/wiki/Julio_Richter_(Earth-616),183,Rictor,Julio Esteban Richter,Julio Richter 
+-56.04475400000001,-1.2785438,John Jonah Jameson III ,253,http://marvel.wikia.com/wiki/John_Jonah_Jameson_III_(Earth-616),184,Man-Wolf,John Jonah Jameson III,John Jonah Jameson III 
+-58.211803,10.348905,Sersi ,252,http://marvel.wikia.com/wiki/Sersi_(Earth-616),185,Sersi,Sersi,Sersi 
+-16.922606,-44.73732,Megan Gwynn ,252,http://marvel.wikia.com/wiki/Megan_Gwynn_(Earth-616),186,Pixie,Megan Gwynn,Megan Gwynn 
+-57.97734499999999,-18.7208,Robert Reynolds ,251,http://marvel.wikia.com/wiki/Robert_Reynolds_(Earth-616),187,The Sentry,"Robert ""Bob"" Reynolds",Bob Reynolds
+-55.34354,-15.752983,Ares ,250,http://marvel.wikia.com/wiki/Ares_(Earth-616),188,Ares,Ares,Ares 
+-56.420025,-2.3082058,Curtis Connors ,249,http://marvel.wikia.com/wiki/Curtis_Connors_(Earth-616),189,Lizard,"Dr. Curtis ""Curt"" Connors",Curt Connors
+-35.04083,-5.298088,Jonathan Clay ,245,http://marvel.wikia.com/wiki/Jonathan_Clay_(Earth-616),190,Rawhide Kid,Jonathan Clay,Jonathan Clay 
+-58.526024,-9.600149,Tyrone Johnson ,244,http://marvel.wikia.com/wiki/Tyrone_Johnson_(Earth-616),191,Cloak,Tyrone Johnson,Tyrone Johnson 
+15.620112,-45.54208,Amadeus Cho ,244,http://marvel.wikia.com/wiki/Amadeus_Cho_(Earth-616),192,Brawn,Amadeus Cho,Amadeus Cho 
+-59.59190400000001,-13.762054,Mar-Vell ,243,http://marvel.wikia.com/wiki/Mar-Vell_(Earth-616),193,Captain Marvel,Mar-Vell,Mar-Vell 
+-58.689613,-9.578954,Tandy Bowen ,243,http://marvel.wikia.com/wiki/Tandy_Bowen_(Earth-616),194,Dagger,Tandy Bowen,Tandy Bowen 
+-1.5017887,38.094006,Donald Blake ,242,http://marvel.wikia.com/wiki/Donald_Blake_(Earth-616),195,Dr. Donald 'Don' Blake,Dr. Donald 'Don' Blake,Don Blake
+-35.22449500000001,-28.583519,Amara Aquilla ,241,http://marvel.wikia.com/wiki/Amara_Aquilla_(Earth-616),196,Magma,Amara Juliana Olivians Aquilla,Amara Aquilla 
+-32.4113,-1.4829477,Karen Page ,241,http://marvel.wikia.com/wiki/Karen_Page_(Earth-616),197,Karen Page,Karen Page,Karen Page 
+-41.18398,-24.050446,Meggan Puceanu ,240,http://marvel.wikia.com/wiki/Meggan_Puceanu_(Earth-616),198,Gloriana,"Meggan Braddock, née Puceanu",Meggan Puceanu 
+-40.75573,-0.37701786,Clea ,240,http://marvel.wikia.com/wiki/Clea_(Earth-616),199,Clea,Clea Strange,Clea 
+-53.43634,-16.539648,Helmut Zemo ,240,http://marvel.wikia.com/wiki/Helmut_Zemo_(Earth-616),200,Baron Zemo,Baron Helmut J. Zemo,Helmut Zemo 
+-36.61401400000001,-27.185041,Valerie Cooper ,238,http://marvel.wikia.com/wiki/Valerie_Cooper_(Earth-616),201,Val Cooper,"Dr. Valerie ""Val"" Cooper",Val Cooper
+-40.396748,-23.534023,Mortimer Toynbee ,237,http://marvel.wikia.com/wiki/Mortimer_Toynbee_(Earth-616),202,Toad,"Mortimer ""Mort"" Toynbee",Mort Toynbee
+-64.668304,0.24681854,Jeanne-Marie Beaubier ,237,http://marvel.wikia.com/wiki/Jeanne-Marie_Beaubier_(Earth-616),203,Aurora,Jeanne-Marie Beaubier,Jeanne-Marie Beaubier 
+-54.323925,-1.2650653,Adrian Toomes ,236,http://marvel.wikia.com/wiki/Adrian_Toomes_(Earth-616),204,Vulture,Adrian Toomes,Adrian Toomes 
+-50.63597,-0.006429695,Eric Brooks ,235,http://marvel.wikia.com/wiki/Eric_Brooks_(Earth-616),205,Blade,Eric Brooks,Eric Brooks 
+-15.321322,-45.00516500000001,Victor Borkowski ,232,http://marvel.wikia.com/wiki/Victor_Borkowski_(Earth-616),206,Anole,"Victor ""Vic"" Borkowski",Vic Borkowski
+-56.39974599999999,-12.253567,Julia Carpenter ,231,http://marvel.wikia.com/wiki/Julia_Carpenter_(Earth-616),207,Madame Web,Julia Eugenia Cornwall Carpenter,Julia Carpenter 
+15.613798,-45.54868,Samuel Alexander ,229,http://marvel.wikia.com/wiki/Samuel_Alexander_(Earth-616),208,Nova,"Samuel ""Sam"" Alexander",Sam Alexander
+-64.49688,0.313687,Michael Twoyoungmen ,229,http://marvel.wikia.com/wiki/Michael_Twoyoungmen_(Earth-616),209,Shaman,Doctor Michael Twoyoungmen,Michael Twoyoungmen 
+-21.669891,24.79217,Valeria Richards ,228,http://marvel.wikia.com/wiki/Valeria_Richards_(Earth-616),210,Brainstorm,Valeria Meghan Richards,Valeria Richards 
+-59.39050699999999,-15.7954035,Tony Masters ,227,http://marvel.wikia.com/wiki/Tony_Masters_(Earth-616),211,Taskmaster,Tony Masters,Tony Masters 
+-55.210495,-8.898132,Michael Morbius ,227,http://marvel.wikia.com/wiki/Michael_Morbius_(Earth-616),212,Morbius the Living Vampire,Dr. Michael Morbius,Michael Morbius 
+-33.142227,-22.686342,Akihiro ,226,http://marvel.wikia.com/wiki/Akihiro_(Earth-616),213,Daken,Akihiro,Akihiro 
+-53.489113,-16.772457,Erik Josten ,226,http://marvel.wikia.com/wiki/Erik_Josten_(Earth-616),214,Atlas,Erik Stephan Josten,Erik Josten 
+-32.866413,-32.47452,Paige Guthrie ,225,http://marvel.wikia.com/wiki/Paige_Guthrie_(Earth-616),215,Husk,Paige Elisabeth Guthrie,Paige Guthrie 
+-18.398336,-12.593015,Zabu ,225,http://marvel.wikia.com/wiki/Zabu_(Earth-616),216,Zabu,Zabu,Zabu 
+-50.10103,-12.616713,Eros ,224,http://marvel.wikia.com/wiki/Eros_(Earth-616),217,Starfox,"Eros, (legally changed from Eron)",Eros 
+-59.491714,-6.2305064,Maxwell Dillon ,224,http://marvel.wikia.com/wiki/Maxwell_Dillon_(Earth-616),218,Electro,"Maxwell ""Max"" Dillon",Max Dillon
+-53.16737,-21.468971,Dirk Garthwaite ,223,http://marvel.wikia.com/wiki/Dirk_Garthwaite_(Earth-616),219,Wrecker,Dirk Garthwaite,Dirk Garthwaite 
+-53.405357,-11.098076,Kyle Richmond ,222,http://marvel.wikia.com/wiki/Kyle_Richmond_(Earth-616),220,Nighthawk,Kyle Richmond,Kyle Richmond 
+-56.09013,-14.348204,Bentley Wittman ,220,http://marvel.wikia.com/wiki/Bentley_Wittman_(Earth-616),221,The Wizard,Bentley Wittman (Legally changed to The Wizard),Bentley Wittman 
+-48.41955,3.6794746,Gloria Grant ,217,http://marvel.wikia.com/wiki/Gloria_Grant_(Earth-616),222,Glory Grant,"Gloria ""Glory"" Grant",Glory Grant
+-43.61737,-16.112007000000002,Henry Gyrich ,216,http://marvel.wikia.com/wiki/Henry_Gyrich_(Earth-616),223,Henry Gyrich,Henry Peter Gyrich,Henry Gyrich 
+-10.604994,-42.213783,Hope Summers ,215,http://marvel.wikia.com/wiki/Hope_Summers_(Earth-616),224,Hope Summers,Hope Summers,Hope Summers 
+-42.5074,-21.249102,Frederick Dukes ,214,http://marvel.wikia.com/wiki/Frederick_Dukes_(Earth-616),225,Blob,"Frederick ""Fred"" J. Dukes",Fred Dukes
+-54.83743000000001,16.247763,Eric Masterson ,214,http://marvel.wikia.com/wiki/Eric_Masterson_(Earth-616),226,Thunderstrike,Eric Kevin Masterson,Eric Masterson 
+-38.52316,-23.784185,Sebastian Shaw ,211,http://marvel.wikia.com/wiki/Sebastian_Shaw_(Earth-616),227,Black King,Sebastian Hiram Shaw,Sebastian Shaw 
+-58.809494,-14.38336,Ultron ,210,http://marvel.wikia.com/wiki/Ultron_(Earth-616),228,Ultron Pym,Ultron,Ultron 
+-34.928490000000004,-5.1824207000000015,Matthew Hawk ,208,http://marvel.wikia.com/wiki/Matthew_Hawk_(Earth-616),229,Two-Gun Kid,Matthew Hawk (Born Matthew Leibowitz),Matthew Hawk 
+-46.291702,-13.9089,Jericho Drumm ,208,http://marvel.wikia.com/wiki/Jericho_Drumm_(Earth-616),230,Doctor Voodoo,Jericho Drumm,Jericho Drumm 
+-34.943966,-17.992723,Madison Jeffries ,205,http://marvel.wikia.com/wiki/Madison_Jeffries_(Earth-616),231,Madison Jeffries,Madison Jeffries,Madison Jeffries 
+-33.434574,-32.43613,Jonothon Starsmore ,205,http://marvel.wikia.com/wiki/Jonothon_Starsmore_(Earth-616),232,Chamber,"Jonothon ""Jono"" Evan Starsmore",Jono Starsmore
+-16.826355,-43.13853,Irma Cuckoo ,204,http://marvel.wikia.com/wiki/Irma_Cuckoo_(Earth-616),233,Mindee,Irma Cuckoo,Irma Cuckoo 
+-13.348059,24.12821,Hedy Wolfe ,204,http://marvel.wikia.com/wiki/Hedy_Wolfe_(Earth-616),234,Hedy Wolfe,Hedy Wolfe,Hedy Wolfe 
+-16.68321,-43.261646,Celeste Cuckoo ,203,http://marvel.wikia.com/wiki/Celeste_Cuckoo_(Earth-616),235,Celeste,Celeste Cuckoo,Celeste Cuckoo 
+-59.62116999999999,-12.659853,Harvey Elder ,202,http://marvel.wikia.com/wiki/Harvey_Elder_(Earth-616),236,Mole Man,Harvey Rupert Elder,Harvey Elder 
+-56.118286,-13.511926,Herbert Wyndham ,201,http://marvel.wikia.com/wiki/Herbert_Wyndham_(Earth-616),237,High Evolutionary,Herbert Edgar Wyndham,Herbert Wyndham 
+-23.121117,-24.807295,Kallark ,201,http://marvel.wikia.com/wiki/Kallark_(Earth-616),238,Gladiator,Kallark,Kallark 
+-15.805447,-44.01112,Phoebe Cuckoo ,201,http://marvel.wikia.com/wiki/Phoebe_Cuckoo_(Earth-616),239,Phoebe,Phoebe Cuckoo,Phoebe Cuckoo 
+-14.260619,-16.802341000000002,Redwing ,200,http://marvel.wikia.com/wiki/Redwing_(Earth-616),240,Redwing,Redwing,Redwing 
+-22.460932,24.475853,Alexander Power ,198,http://marvel.wikia.com/wiki/Alexander_Power_(Earth-616),241,Alex Power,"Alexander ""Alex"" Power",Alex Power
+-45.17835,-33.915585,Katherine Bishop ,197,http://marvel.wikia.com/wiki/Katherine_Bishop_(Earth-616),242,Hawkeye,"Katherine ""Kate"" Elizabeth Bishop",Kate Bishop
+-44.967575,-9.444526,Maximus Boltagon ,195,http://marvel.wikia.com/wiki/Maximus_Boltagon_(Earth-616),243,Vox,Maximus Boltagon,Maximus Boltagon 
+-53.015717,-6.133907,Samuel Sterns ,194,http://marvel.wikia.com/wiki/Samuel_Sterns_(Earth-616),244,Leader,Samuel Sterns,Samuel Sterns 
+-15.102331,-45.00694,Julian Keller ,194,http://marvel.wikia.com/wiki/Julian_Keller_(Earth-616),245,Hellion,Julian Keller,Julian Keller 
+-57.102436,19.32841,Hela ,193,http://marvel.wikia.com/wiki/Hela_(Earth-616),246,Hela,Hela,Hela 
+-48.671356,-10.020996,Ophelia Sarkissian ,193,http://marvel.wikia.com/wiki/Ophelia_Sarkissian_(Earth-616),247,Viper,Ophelia Sarkissian,Ophelia Sarkissian 
+-56.565086,-5.8803663,Frederick Myers ,192,http://marvel.wikia.com/wiki/Frederick_Myers_(Earth-616),248,Boomerang,"Frederick ""Fred"" Myers",Fred Myers
+-54.321087,-1.060293,Sergei Kravinoff ,191,http://marvel.wikia.com/wiki/Sergei_Kravinoff_(Earth-616),249,Kraven the Hunter,Sergei Nikolaevich Kravinoff (originally Sergei Kravinov),Sergei Kravinoff 
+-35.105476,-28.460432,Douglas Ramsey ,191,http://marvel.wikia.com/wiki/Douglas_Ramsey_(Earth-616),250,Cypher,Douglas Aaron Ramsey,Douglas Ramsey 
+-23.323256,-23.60293,Lilandra Neramani ,190,http://marvel.wikia.com/wiki/Lilandra_Neramani_(Earth-616),251,Majestrix Lilandra,Lilandra Neramani,Lilandra Neramani 
+-49.02349,-1.2602761,Jack Russell ,190,http://marvel.wikia.com/wiki/Jack_Russell_(Earth-616),252,Werewolf,Jack Russell(legally changed from Jacob Russoff),Jack Russell 
+-54.42270300000001,0.06447149,Kaine Parker ,190,http://marvel.wikia.com/wiki/Kaine_Parker_(Earth-616),253,Scarlet Spider,Kaine,Kaine Parker 
+-27.46431,-35.330364,Nathaniel Essex ,189,http://marvel.wikia.com/wiki/Nathaniel_Essex_(Earth-616),254,Mister Sinister,Dr. Nathaniel Essex,Nathaniel Essex 
+9.479192,36.7334,Harold Hogan ,189,http://marvel.wikia.com/wiki/Harold_Hogan_(Earth-616),255,Happy Hogan,"Harold Joseph ""Happy"" Hogan",Happy Hogan
+-52.006565,-22.170015,Eliot Franklin (Thunderball) ,188,http://marvel.wikia.com/wiki/Eliot_Franklin_(Thunderball)_(Earth-616),256,Thunderball,Dr. Eliot Augustus Franklin,Eliot Franklin (Thunderball) 
+-51.907566,-12.6007395,Death ,187,http://marvel.wikia.com/wiki/Death_(Earth-616),257,Death,Death,Death 
+-47.165695,-33.517563,Cassandra Lang ,186,http://marvel.wikia.com/wiki/Cassandra_Lang_(Earth-616),258,Stinger,"Cassandra Eleanor ""Cassie"" Lang",Cassie Lang
+-39.456673,-23.787329,Shiro Yoshida ,185,http://marvel.wikia.com/wiki/Shiro_Yoshida_(Earth-616),259,Sunfire,Shiro Yoshida,Shiro Yoshida 
+-51.29261,2.2614775000000003,Colleen Wing ,185,http://marvel.wikia.com/wiki/Colleen_Wing_(Earth-616),260,Colleen Wing,Colleen Wing,Colleen Wing 
+-1.9927367,13.081242,Pip Gofern ,184,http://marvel.wikia.com/wiki/Pip_Gofern_(Earth-616),261,Pip the Troll,Pip Gofern,Pip Gofern 
+-47.43371,14.513515,Edward Leeds ,184,http://marvel.wikia.com/wiki/Edward_Leeds_(Earth-616),262,Ned Leeds,"Edward ""Ned"" Leeds",Ned Leeds
+-53.95404,-3.7276223,Herman Schultz ,184,http://marvel.wikia.com/wiki/Herman_Schultz_(Earth-616),263,Shocker,Herman Schultz,Herman Schultz 
+-31.415352,-29.508917,Sage ,183,http://marvel.wikia.com/wiki/Sage_(Earth-616),264,Sage,Unknown,Sage 
+-55.405712,-14.347532,Calvin Zabo ,183,http://marvel.wikia.com/wiki/Calvin_Zabo_(Earth-616),265,Mister Hyde,Calvin Zabo,Calvin Zabo 
+-50.13965200000001,-15.369394,Christopher Powell ,182,http://marvel.wikia.com/wiki/Christopher_Powell_(Earth-616),266,Darkhawk,Christopher 'Chris' Powell,Chris Powell
+-47.70065,-16.9871,Dwayne Taylor ,182,http://marvel.wikia.com/wiki/Dwayne_Taylor_(Earth-616),267,Night Thrasher,Dwayne Michael Taylor,Dwayne Taylor 
+-37.782955,-1.2661809,Mandarin ,180,http://marvel.wikia.com/wiki/Mandarin_(Earth-616),268,Mandarin,Unknown,Mandarin 
+-35.399696,-25.440945000000006,En Sabah Nur ,180,http://marvel.wikia.com/wiki/En_Sabah_Nur_(Earth-616),269,,En Sabah Nur,En Sabah Nur 
+-49.14256,-6.785900999999999,Wolfgang von Strucker ,179,http://marvel.wikia.com/wiki/Wolfgang_von_Strucker_(Earth-616),270,Baron von Strucker,Wolfgang von Strucker,Wolfgang von Strucker 
+-64.76621999999999,0.20489863,James Hudson ,179,http://marvel.wikia.com/wiki/James_Hudson_(Earth-616),271,Guardian,James MacDonald Hudson,James Hudson 
+-14.169565,-44.4874,Hisako Ichiki ,177,http://marvel.wikia.com/wiki/Hisako_Ichiki_(Earth-616),272,Armor,Hisako Ichiki,Hisako Ichiki 
+-58.606636,-12.616992,Peter Petruski ,176,http://marvel.wikia.com/wiki/Peter_Petruski_(Earth-616),273,Trapster,Peter Petruski,Peter Petruski 
+-14.510974,-43.356247,Quintavius Quire ,174,http://marvel.wikia.com/wiki/Quintavius_Quire_(Earth-616),274,Kid Omega,Quintavius Quirinius Quire,Quintavius Quire 
+-49.75201,-11.460353,X-51 ,174,http://marvel.wikia.com/wiki/X-51_(Earth-616),275,Machine Man,Aaron Stack (legal name);Z2P45-9-X-51 (model number),X-51 
+-59.312305,-12.579743,Mad Thinker (Julius) ,174,http://marvel.wikia.com/wiki/Mad_Thinker_(Julius)_(Earth-616),276,Mister Fantastic,Julius (surname unknown),Mad Thinker (Julius) 
+-52.41901,-21.963867,Brian Calusky ,174,http://marvel.wikia.com/wiki/Brian_Calusky_(Earth-616),277,Piledriver,Brian Phillip Calusky,Brian Calusky 
+-35.687107,-22.79218,Yuriko Oyama ,174,http://marvel.wikia.com/wiki/Yuriko_Oyama_(Earth-616),278,Lady Deathstrike,Yuriko Oyama,Yuriko Oyama 
+-22.236217,-3.3027492,David Lieberman ,173,http://marvel.wikia.com/wiki/David_Lieberman_(Earth-616),279,Microchip,David Linus Lieberman,David Lieberman 
+-42.637924,-39.879803,Elvin Haliday ,173,http://marvel.wikia.com/wiki/Elvin_Haliday_(Earth-616),280,Rage,Elvin Daryl Haliday,Elvin Haliday 
+-37.613457,-15.452882,Rachel Leighton ,173,http://marvel.wikia.com/wiki/Rachel_Leighton_(Earth-616),281,Diamondback,Rachel Leighton,Rachel Leighton 
+-54.341915,-13.987932,Ulysses Klaw ,170,http://marvel.wikia.com/wiki/Ulysses_Klaw_(Earth-616),282,Klaw,Ulysses S. Klaw (legally changed from Ulysses Klaue),Ulysses Klaw 
+19.527954,-32.755325,Doreen Green ,169,http://marvel.wikia.com/wiki/Doreen_Green_(Earth-616),283,Squirrel Girl,Doreen Allene Green,Doreen Green 
+-56.3379,18.663061,Beta Ray Bill ,167,http://marvel.wikia.com/wiki/Beta_Ray_Bill_(Earth-616),284,Beta Ray Bill,Beta Ray Bill (legally changed from Bill),Beta Ray Bill 
+-15.477961,48.64185,Robert Ralston ,167,http://marvel.wikia.com/wiki/Robert_Ralston_(Earth-616),285,"Robert ""Reb"" Ralston","Robert ""Reb"" Ralston",Reb Ralston
+-21.983948,24.548662,Leech ,166,http://marvel.wikia.com/wiki/Leech_(Earth-616),286,Leech,Unknown,Leech 
+-10.615263,53.280125,Jasper Sitwell ,166,http://marvel.wikia.com/wiki/Jasper_Sitwell_(Earth-616),287,Jasper Sitwell,Jasper Sitwell,Jasper Sitwell 
+-13.932924,1.6576803,Marlene Alraune ,165,http://marvel.wikia.com/wiki/Marlene_Alraune_(Earth-616),288,Marlene Alraune,Marlene Alraune,Marlene Alraune 
+-55.710922,-7.709333,Silver Sablinova ,165,http://marvel.wikia.com/wiki/Silver_Sablinova_(Earth-616),289,Silver Sable,Silvija Sablinova,Silver Sablinova 
+-9.491813,-42.680862,James Bradley ,165,http://marvel.wikia.com/wiki/James_Bradley_(Earth-616),290,Doctor Nemesis,James Nicola Bradley,James Bradley 
+-45.375084,-30.943459000000004,Veranke ,164,http://marvel.wikia.com/wiki/Veranke_(Earth-616),291,Queen Veranke,Veranke,Veranke 
+-55.97628,-2.3406513,Quentin Beck ,164,http://marvel.wikia.com/wiki/Quentin_Beck_(Earth-616),292,Mysterio,Quentin Beck,Quentin Beck 
+-45.38352,26.086746,Cletus Kasady ,163,http://marvel.wikia.com/wiki/Cletus_Kasady_(Earth-616),293,Dark Carnage,Cletus Kasady,Cletus Kasady 
+-45.13888,-7.8929,Mantis ,163,http://marvel.wikia.com/wiki/Mantis_(Earth-616),294,Mantis,Brandt (first name unrevealed),Mantis 
+11.47231,52.805058,Valentina Allegra de Fontaine ,163,http://marvel.wikia.com/wiki/Valentina_Allegra_de_Fontaine_(Earth-616),295,Contessa Valentina Allegra de la Fontaine,Unknown,Valentina Allegra de Fontaine 
+-50.094025,-9.891123,Anthony Druid ,162,http://marvel.wikia.com/wiki/Anthony_Druid_(Earth-616),296,Doctor Druid,Anthony Druid (Name legally changed from Anthony Ludgate),Anthony Druid 
+-58.01641,-6.0965614000000015,Hammerhead (Joseph) ,161,http://marvel.wikia.com/wiki/Hammerhead_(Joseph)_(Earth-616),297,Hammerhead,Joseph (last name unrevealed),Hammerhead (Joseph) 
+6.837565400000001,28.861553000000004,Jean-Paul Duchamp ,161,http://marvel.wikia.com/wiki/Jean-Paul_Duchamp_(Earth-616),298,Frenchie,Jean-Paul Duchamp,Jean-Paul Duchamp 
+-45.60004,-8.734636,Ronan ,159,http://marvel.wikia.com/wiki/Ronan_(Earth-616),299,Ronan the Accuser,Ronan,Ronan 
+-55.998726,-2.5417502,Dmitri Smerdyakov ,159,http://marvel.wikia.com/wiki/Dmitri_Smerdyakov_(Earth-616),300,Chameleon,Dmitri Anatoly Nikolayevich Smerdyakov,Dmitri Smerdyakov 
+-43.93685,-13.401931,Jocasta Vi Quitéria ,158,https://marvel.fandom.com/wiki/Jocasta_Pym_(Earth-616),607,Jocasta,Jocasta Pym,Jocasta Vi Quitéria 
+-52.810543,-15.288161,Norbert Ebersol ,158,http://marvel.wikia.com/wiki/Norbert_Ebersol_(Earth-616),302,Fixer,Paul Norbert Ebersol,Norbert Ebersol 
+-22.793562,-11.986156,Julie Power ,157,http://marvel.wikia.com/wiki/Julie_Power_(Earth-616),303,Lightspeed,Julie Power,Julie Power 
+-17.76281,-44.84299,Noriko Ashida ,157,http://marvel.wikia.com/wiki/Noriko_Ashida_(Earth-616),304,Surge,"Noriko ""Nori"" Ashida",Nori Ashida
+-52.759014,-14.901171,Chen Lu ,157,http://marvel.wikia.com/wiki/Chen_Lu_(Earth-616),305,Radioactive Man,Chen Lu,Chen Lu 
+-35.035121999999994,-17.65383,Narya ,157,http://marvel.wikia.com/wiki/Narya_(Earth-616),306,Snowbird,Narya,Narya 
+-56.5285,-9.668347,Nightmare ,155,http://marvel.wikia.com/wiki/Nightmare_(Earth-616),307,Nightmare,Nightmare,Nightmare 
+-56.914516000000006,-9.623938,Dormammu ,155,http://marvel.wikia.com/wiki/Dormammu_(Earth-616),308,Dormammu,Dormammu,Dormammu 
+-57.19619399999999,-11.988549,George Tarleton ,155,http://marvel.wikia.com/wiki/George_Tarleton_(Earth-616),309,George Tarleton,George Tarleton,George Tarleton 
+-48.628635,-23.503761,Giuletta Nefaria ,155,http://marvel.wikia.com/wiki/Giuletta_Nefaria_(Earth-616),310,Madame Masque,Giuletta Kristina Nefaria,Giuletta Nefaria 
+-58.369335,4.1522174,Dragon Man ,154,http://marvel.wikia.com/wiki/Dragon_Man_(Earth-616),311,Dragon Man,Dragon Man,Dragon Man 
+-13.477109,24.175655,Robert Baxter ,154,http://marvel.wikia.com/wiki/Robert_Baxter_(Earth-616),312,Mad-Dog,"Robert ""Buzz"" Baxter",Buzz Baxter
+-47.414104,-9.986644,Brock Rumlow ,154,http://marvel.wikia.com/wiki/Brock_Rumlow_(Earth-616),313,Crossbones,Brock Rumlow,Brock Rumlow 
+-51.60428,-10.082552,Annihilus ,153,http://marvel.wikia.com/wiki/Annihilus_(Earth-616),314,Annihilus,Annihilus,Annihilus 
+15.706316,29.869724,Yao ,153,http://marvel.wikia.com/wiki/Yao_(Earth-616),315,Ancient One,Yao,Yao 
+11.908767,9.058312,Dino Manelli ,153,http://marvel.wikia.com/wiki/Dino_Manelli_(Earth-616),316,Dino Manelli,Unknown,Dino Manelli 
+-49.766724,8.727367,Benjamin Parker ,152,http://marvel.wikia.com/wiki/Benjamin_Parker_(Earth-616),317,Ben Parker,"Benjamin Franklin ""Ben"" Parker[citation needed]",Ben needed]
+-4.8577010000000005,5.5332055,Glenn Talbot ,152,http://marvel.wikia.com/wiki/Glenn_Talbot_(Earth-616),318,Colonel Glenn Talbot,Glenn Talbot,Glenn Talbot 
+-49.401207,-23.56248,Parker Robbins ,151,http://marvel.wikia.com/wiki/Parker_Robbins_(Earth-616),319,The Hood,Parker Robbins,Parker Robbins 
+-47.124744,-12.757505,Walter Newell ,151,http://marvel.wikia.com/wiki/Walter_Newell_(Earth-616),320,Stingray,Walter Newell,Walter Newell 
+-50.704697,-22.823174,Henry Camp ,150,http://marvel.wikia.com/wiki/Henry_Camp_(Earth-616),321,Bulldozer,Henry Camp,Henry Camp 
+-13.648148999999998,-45.20487,Cessily Kincaid ,150,http://marvel.wikia.com/wiki/Cessily_Kincaid_(Earth-616),322,Mercury,Cessily Kincaid,Cessily Kincaid 
+56.870216000000006,-13.326013,Bug (Insectivorid) ,150,http://marvel.wikia.com/wiki/Bug_(Insectivorid)_(Earth-616),323,Bug,Unknown,Bug (Insectivorid) 
+-14.4355135,46.94357,Adolf Hitler ,149,http://marvel.wikia.com/wiki/Adolf_Hitler_(Earth-616),324,Adolf Hitler,Adolf Hitler,Adolf Hitler 
+-14.445816,48.238476,Isadore Cohen ,149,http://marvel.wikia.com/wiki/Isadore_Cohen_(Earth-616),325,Izzy Cohen,"Isadore ""Izzy"" Cohen",Izzy Cohen
+-54.04721,-8.7256775,Jack Monroe ,149,http://marvel.wikia.com/wiki/Jack_Monroe_(Earth-616),326,Nomad,Jack Monroe,Jack Monroe 
+-53.69818000000001,-14.477939,Todd Arliss ,149,http://marvel.wikia.com/wiki/Todd_Arliss_(Earth-616),327,Tiger Shark,Todd Arliss,Todd Arliss 
+-54.71657,-0.4167715,Miles Warren ,148,http://marvel.wikia.com/wiki/Miles_Warren_(Earth-616),328,Jackal,Miles Warren,Miles Warren 
+-49.7665,-3.5253803999999995,Lonnie Lincoln ,148,http://marvel.wikia.com/wiki/Lonnie_Lincoln_(Earth-616),329,Tombstone,Lonnie Thompson Lincoln,Lonnie Lincoln 
+-0.38321504,37.391262,Freyja Freyrdottir ,148,http://marvel.wikia.com/wiki/Freyja_Freyrdottir_(Earth-616),330,All-Mother Freyja,Frigga / Freyja Freyrdottir,Freyja Freyrdottir 
+-46.68447000000001,-33.65789,William Kaplan ,147,http://marvel.wikia.com/wiki/William_Kaplan_(Earth-616),331,Wiccan,"William ""Billy"" Kaplan-Altman",Billy Kaplan-Altman
+47.753094,-9.3899145,Steel ,147,http://marvel.wikia.com/wiki/Steel_(Earth-616),332,Steel,Steel,Steel 
+-58.139874,-13.871266,Mary MacPherran ,146,http://marvel.wikia.com/wiki/Mary_MacPherran_(Earth-616),333,Titania,Mary MacPherran Creel,Mary MacPherran 
+-11.253314,2.691544,Marla Madison ,145,http://marvel.wikia.com/wiki/Marla_Madison_(Earth-616),334,Marla Madison Jameson,Marla Madison Jameson,Marla Madison 
+-18.011578,-38.776016,Charlie Cluster-7 ,145,http://marvel.wikia.com/wiki/Charlie_Cluster-7_(Earth-616),335,Fantomex,Charlie Cluster-7,Charlie Cluster-7 
+-32.30549,-17.105839000000003,Kyle Gibney ,144,http://marvel.wikia.com/wiki/Kyle_Gibney_(Earth-616),336,Wild Child,Kyle Gibney,Kyle Gibney 
+-3.850536,-2.305107,Clicker Holbrook ,144,http://marvel.wikia.com/wiki/Clicker_Holbrook_(Earth-616),337,Clicker Holbrook,Clicker Holbrook,Clicker Holbrook 
+-26.339018,-15.085795999999998,Aquaria Neptunia ,144,http://marvel.wikia.com/wiki/Aquaria_Neptunia_(Earth-616),338,Namora,Aquaria Nautica Neptunia,Aquaria Neptunia 
+-21.596922,24.972118,Arthur Maddicks ,144,http://marvel.wikia.com/wiki/Arthur_Maddicks_(Earth-616),339,Artie Maddicks,"Arthur ""Artie"" Maddicks",Artie Maddicks
+27.123466,8.701406,Carnage (Klyntar) ,143,http://marvel.wikia.com/wiki/Carnage_(Klyntar)_(Earth-616),340,Carnage,Unknown (The symbiote takes the name of its current host),Carnage (Klyntar) 
+-32.305916,-26.77851,Madelyne Pryor ,143,http://marvel.wikia.com/wiki/Madelyne_Pryor_(Earth-616),341,Goblin Queen,Madelyne Jennifer Pryor,Madelyne Pryor 
+-57.346786,-16.18401,Georges Batroc ,143,http://marvel.wikia.com/wiki/Georges_Batroc_(Earth-616),342,Batroc the Leaper,Georges Batroc,Georges Batroc 
+-10.010692,-47.50562,Idie Okonkwo ,143,http://marvel.wikia.com/wiki/Idie_Okonkwo_(Earth-616),343,Oya,Idie Okonkwo,Idie Okonkwo 
+-9.003011,26.6047,Makkari ,142,http://marvel.wikia.com/wiki/Makkari_(Earth-616),344,Makkari,Makkari,Makkari 
+-54.772182,-10.723989,Frank Payne ,142,http://marvel.wikia.com/wiki/Frank_Payne_(Earth-616),345,Constrictor,Frank Payne,Frank Payne 
+-22.74188,-18.221682,Genis-Vell ,142,http://marvel.wikia.com/wiki/Genis-Vell_(Earth-616),346,Photon,Genis-Vell,Genis-Vell 
+-43.37893,-10.194938,Agatha Harkness ,141,http://marvel.wikia.com/wiki/Agatha_Harkness_(Earth-616),347,Agatha Harkness,Agatha Harkness,Agatha Harkness 
+-17.449114,43.386684,Jeffrey Mace ,140,http://marvel.wikia.com/wiki/Jeffrey_Mace_(Earth-616),348,Captain America,Jeffrey Solomon Mace,Jeffrey Mace 
+-57.14233,19.365429,Karnilla ,139,http://marvel.wikia.com/wiki/Karnilla_(Earth-616),349,Karnilla,Karnilla,Karnilla 
+-14.696759,48.35717,Percival Pinkerton ,139,http://marvel.wikia.com/wiki/Percival_Pinkerton_(Earth-616),350,Pinky Pinkerton,Percival Pinkerton,Percival Pinkerton 
+-9.92904,-42.048836,Danger ,139,http://marvel.wikia.com/wiki/Danger_(Earth-616),351,Danger,Danger Room,Danger 
+-45.26596,-8.728431,Supreme Intelligence ,138,http://marvel.wikia.com/wiki/Supreme_Intelligence_(Earth-616),352,Supreme Intelligence,None,Supreme Intelligence 
+-16.841738,-39.55843400000001,Abigail Brand ,138,http://marvel.wikia.com/wiki/Abigail_Brand_(Earth-616),353,Lt. Commander Abigail Brand,Abigail (last name unrevealed),Abigail Brand 
+-56.219566,-8.601197,Paladin ,138,http://marvel.wikia.com/wiki/Paladin_(Earth-616),354,Paladin,Unknown,Paladin 
+-33.47509,-28.283237,Peter Wisdom ,138,http://marvel.wikia.com/wiki/Peter_Wisdom_(Earth-616),355,Pete Wisdom,Peter Paul Wisdom,Peter Wisdom 
+-16.670835,-44.400005,Sooraya Qadir ,137,http://marvel.wikia.com/wiki/Sooraya_Qadir_(Earth-616),356,Dust,Sooraya Qadir,Sooraya Qadir 
+-45.18636,-11.845415,Isaac Christians ,137,http://marvel.wikia.com/wiki/Isaac_Christians_(Earth-616),357,Gargoyle,Isaac Christians,Isaac Christians 
+31.764236,35.496887,Betty Dean ,137,http://marvel.wikia.com/wiki/Betty_Dean_(Earth-616),358,Betty Dean-Prentiss,Betty Dean-Prentiss,Betty Dean 
+-37.585266,-21.086208,Marrow (Sarah) ,137,http://marvel.wikia.com/wiki/Marrow_(Sarah)_(Earth-616),359,Marrow,Sarah,Marrow (Sarah) 
+-38.079105,-5.070274,Lyja ,136,http://marvel.wikia.com/wiki/Lyja_(Earth-616),360,Lyja,Lyja,Lyja 
+-20.392885,41.05129,Jacqueline Falsworth ,136,http://marvel.wikia.com/wiki/Jacqueline_Falsworth_(Earth-616),361,Spitfire,Lady Jacqueline Falsworth Crichton,Jacqueline Falsworth 
+30.41485,37.103397,Thomas Halloway ,135,http://marvel.wikia.com/wiki/Thomas_Halloway_(Earth-616),362,Angel,Thomas Halloway,Thomas Halloway 
+-14.413076,-41.41932,Doop ,135,http://marvel.wikia.com/wiki/Doop_(Earth-616),363,Doop,Unknown,Doop 
+-22.649654,-22.92088,Christopher Summers ,135,http://marvel.wikia.com/wiki/Christopher_Summers_(Earth-616),364,Corsair,Christopher Summers,Christopher Summers 
+-57.600796,-10.810407,Arcade ,134,http://marvel.wikia.com/wiki/Arcade_(Earth-616),365,Arcade,Unrevealed,Arcade 
+14.940694,-41.995384,Daisy Johnson ,134,http://marvel.wikia.com/wiki/Daisy_Johnson_(Earth-616),366,Quake,Daisy Louise Johnson,Daisy Johnson 
+-29.682476,-25.931013,Jason Wyngarde ,134,http://marvel.wikia.com/wiki/Jason_Wyngarde_(Earth-616),367,Mastermind,Jason Wyngarde,Jason Wyngarde 
+68.077286,-8.409687,Nico Minoru ,134,http://marvel.wikia.com/wiki/Nico_Minoru_(Earth-616),368,Nico Minoru,Nico Minoru,Nico Minoru 
+11.294171,-2.0691729,"Nicholas Fury, Jr. ",133,"http://marvel.wikia.com/wiki/Nicholas_Fury,_Jr._(Earth-616)",369,Agent Nick Fury,"Nicholas Joseph Fury, Jr.","Nicholas Fury, Jr. "
+-21.990597,-33.702446,Caliban ,133,http://marvel.wikia.com/wiki/Caliban_(Earth-616),370,Caliban,Unknown,Caliban 
+-45.420235,-13.09844,Miguel Santos ,133,http://marvel.wikia.com/wiki/Miguel_Santos_(Earth-616),371,Lightning,Miguel Santos,Miguel Santos 
+-50.41415,-6.6422089999999985,David Cannon ,132,http://marvel.wikia.com/wiki/David_Cannon_(Earth-616),372,Whirlwind,David Cannon,David Cannon 
+17.465603,19.414598,Aragorn ,132,http://marvel.wikia.com/wiki/Aragorn_(Earth-616),373,Aragorn,Aragorn,Aragorn 
+-41.91121,26.264637,Randolph Robertson ,131,http://marvel.wikia.com/wiki/Randolph_Robertson_(Earth-616),374,Randy Robertson,"Randolph ""Randy"" Robertson",Randy Robertson
+-28.361513,42.691284,Zeus Panhellenios ,131,http://marvel.wikia.com/wiki/Zeus_Panhellenios_(Earth-616),375,Zeus,Zeus Panhellenios,Zeus Panhellenios 
+-47.048294,-33.573547,Theodore Altman ,131,http://marvel.wikia.com/wiki/Theodore_Altman_(Earth-616),376,Emperor Dorrek VIII,"Dorrek VIII (Skrull name)Theodore ""Teddy"" Rufus Kaplan-Altman(Earth name)",Teddy name)
+-11.644422,-46.031002,Evan Sabahnur ,130,http://marvel.wikia.com/wiki/Evan_Sabahnur_(Earth-616),377,Genesis,Evan Sabahnur,Evan Sabahnur 
+-31.953161,-27.672424,Callisto ,130,http://marvel.wikia.com/wiki/Callisto_(Earth-616),378,White Knight,Unknown,Callisto 
+28.754513,-21.622234,Anya Corazon ,130,http://marvel.wikia.com/wiki/Anya_Corazon_(Earth-616),379,Spider-Girl,"Aña Sofia ""Anya"" Corazon",Anya Corazon
+-57.039516000000006,-6.05092,Morris Bench ,129,http://marvel.wikia.com/wiki/Morris_Bench_(Earth-616),380,Hydro-Man,Morris Bench,Morris Bench 
+-17.613407000000006,-44.68949,David Alleyne ,129,http://marvel.wikia.com/wiki/David_Alleyne_(Earth-616),381,Prodigy,David Alleyne,David Alleyne 
+-54.96957800000001,-10.267819,Mary Walker ,129,http://marvel.wikia.com/wiki/Mary_Walker_(Earth-616),382,Typhoid Mary,Mary Walker,Mary Walker 
+35.87792,-47.876163,Phillip Coulson ,128,http://marvel.wikia.com/wiki/Phillip_Coulson_(Earth-616),383,Phil Coulson,"Phillip ""Phil"" Coulson",Phil Coulson
+-48.880013,-12.377937,Jonathan Hart ,128,http://marvel.wikia.com/wiki/Jonathan_Hart_(Earth-616),384,Jack of Hearts,Jonathan Hart,Jonathan Hart 
+-26.169634,-15.291682000000002,James Woo ,128,http://marvel.wikia.com/wiki/James_Woo_(Earth-616),385,Jimmy Woo,"James ""Jimmy"" Woo",Jimmy Woo
+-23.301657,-23.336842,Hepzibah ,128,http://marvel.wikia.com/wiki/Hepzibah_(Earth-616),386,Hepzibah,Unknown (Unpronounceable),Hepzibah 
+-28.46654,-32.062584,Joanna Cargill ,127,http://marvel.wikia.com/wiki/Joanna_Cargill_(Earth-616),387,Frenzy,Joanna Cargill,Joanna Cargill 
+-7.7835984,33.78782,Jack Tarr ,126,http://marvel.wikia.com/wiki/Jack_Tarr_(Earth-616),388,Black Jack Tarr,Jack Tarr,Jack Tarr 
+-41.55099000000001,-6.5006275,Wyatt Wingfoot ,125,http://marvel.wikia.com/wiki/Wyatt_Wingfoot_(Earth-616),389,Wyatt Wingfoot,Wyatt Wingfoot,Wyatt Wingfoot 
+-36.82524,6.397106,Leland Owlsley ,125,http://marvel.wikia.com/wiki/Leland_Owlsley_(Earth-616),390,Owl,Leland Owlsley,Leland Owlsley 
+36.821644,45.570335,Bambina Arbogast ,124,http://marvel.wikia.com/wiki/Bambina_Arbogast_(Earth-616),391,Bambi Arbogast,Bambina Teresa Bliss Arbogast,Bambina Arbogast 
+5.3005010000000015,50.37008,Marlo Chandler ,123,http://marvel.wikia.com/wiki/Marlo_Chandler_(Earth-616),392,Marlo Chandler,Marlo Chandler-Jones,Marlo Chandler 
+-13.83095,-43.961178,Robert Herman ,123,http://marvel.wikia.com/wiki/Robert_Herman_(Earth-616),393,Glob Herman,Robert Herman,Robert Herman 
+14.540472,-0.8881139000000001,Danielle Cage ,121,http://marvel.wikia.com/wiki/Danielle_Cage_(Earth-616),394,Dani Cage,"Danielle ""Dani"" Cage-Jones",Dani Cage-Jones
+-42.32437,-33.30493,Jonas ,121,http://marvel.wikia.com/wiki/Jonas_(Earth-616),395,Vision,Jonas,Jonas 
+-41.541676,-6.979676,Sharon Ventura ,121,http://marvel.wikia.com/wiki/Sharon_Ventura_(Earth-616),396,Ms. Marvel,Sharon Ventura,Sharon Ventura 
+2.3249753,37.905853,Loki Laufeyson (Ikol) ,121,http://marvel.wikia.com/wiki/Loki_Laufeyson_(Ikol)_(Earth-616),397,Loki,Loki Laufeyson,Loki Laufeyson (Ikol) 
+-15.562651999999998,48.65486,Samuel Sawyer ,120,http://marvel.wikia.com/wiki/Samuel_Sawyer_(Earth-616),398,Happy Sam,Samuel Sawyer,Samuel Sawyer 
+-43.537514,1.1216366000000002,Red Sonja ,119,http://marvel.wikia.com/wiki/Red_Sonja_(Earth-616),399,Red Sonja,Sonja,Red Sonja 
+-19.057432,41.919403,Madeline Joyce ,119,http://marvel.wikia.com/wiki/Madeline_Joyce_(Earth-616),400,Miss America,Madeline Joyce-Frank,Madeline Joyce 
+49.86038,36.211617,Jacques Duquesne ,119,http://marvel.wikia.com/wiki/Jacques_Duquesne_(Earth-616),401,Swordsman,Jacques Duquesne,Jacques Duquesne 
+-39.111244,-10.743054,Eternity ,118,http://marvel.wikia.com/wiki/Eternity_(Earth-616),402,Eternity,Unknown,Eternity 
+-20.027403,5.633806,Frank Drake ,118,http://marvel.wikia.com/wiki/Frank_Drake_(Earth-616),403,Frank Drake,Frank Drake,Frank Drake 
+-47.253574,14.993059,George Stacy ,118,http://marvel.wikia.com/wiki/George_Stacy_(Earth-616),404,Captain Stacy,George Stacy,George Stacy 
+-57.52759,10.347119,Ikaris (Eternal) ,117,http://marvel.wikia.com/wiki/Ikaris_(Eternal)_(Earth-616),405,Ikaris,Unknown,Ikaris (Eternal) 
+-12.135146,23.364357,Nancy Brown ,116,http://marvel.wikia.com/wiki/Nancy_Brown_(Earth-616),406,Nan Hale,Nancy Brown,Nancy Brown 
+56.42096,-12.927963,Mari ,116,http://marvel.wikia.com/wiki/Mari_(Earth-616),407,Marionette,Mari,Mari 
+-51.34934000000001,-11.412107,Taneleer Tivan ,116,http://marvel.wikia.com/wiki/Taneleer_Tivan_(Earth-616),408,Collector,Taneleer Tivan,Taneleer Tivan 
+67.03684,-8.205872,Chase Stein ,116,http://marvel.wikia.com/wiki/Chase_Stein_(Earth-616),409,Chase Stein,Victor Chase Stein,Chase Stein 
+-14.094641,-32.979362,Prosh ,116,http://marvel.wikia.com/wiki/Prosh_(Earth-616),410,Prosh,Unknown,Prosh 
+-51.57988,-8.523867999999998,Phillip Masters ,115,http://marvel.wikia.com/wiki/Phillip_Masters_(Earth-616),411,Puppet Master,Phillip Masters,Phillip Masters 
+-52.53895,-6.357417,Emil Blonsky ,115,http://marvel.wikia.com/wiki/Emil_Blonsky_(Earth-616),412,Abomination,Emil Blonsky,Emil Blonsky 
+-42.36696,-21.279375,St. John Allerdyce ,115,http://marvel.wikia.com/wiki/St._John_Allerdyce_(Earth-616),413,Pyro,St. John Allerdyce,St. John Allerdyce 
+-55.94946700000001,-14.213891,Paul Duval ,115,http://marvel.wikia.com/wiki/Paul_Duval_(Earth-616),414,Grey Gargoyle,Paul Pierre Duval,Paul Duval 
+38.38619600000001,8.918739,Kull ,114,http://marvel.wikia.com/wiki/Kull_(Earth-616),415,King Kull,Kull,Kull 
+-40.85779,-0.44154263,Karl Mordo ,114,http://marvel.wikia.com/wiki/Karl_Mordo_(Earth-616),416,Baron Mordo,Karl Amadeus Mordo,Karl Mordo 
+-10.358021,53.973232,Clay Quartermain ,114,http://marvel.wikia.com/wiki/Clay_Quartermain_(Earth-616),417,Clay Quartermain,Clay Quartermain,Clay Quartermain 
+-3.3104214999999995,-41.124043,Joshua Foley ,113,http://marvel.wikia.com/wiki/Joshua_Foley_(Earth-616),418,Elixir,Joshua 'Josh' Foley,Josh Foley
+56.766277,-13.236717,Arcturus Rann ,113,http://marvel.wikia.com/wiki/Arcturus_Rann_(Earth-616),419,Arcturus Rann,Arcturus Rann,Arcturus Rann 
+-46.96648,-0.5771574,Roderick Kingsley ,113,http://marvel.wikia.com/wiki/Roderick_Kingsley_(Earth-616),420,Hobgoblin,Roderick Kingsley,Roderick Kingsley 
+-33.549515,11.7679,Phillip Urich ,112,http://marvel.wikia.com/wiki/Phillip_Urich_(Earth-616),421,Goblin King,"Phillip Benjamin ""Phil"" Urich",Phil Urich
+-49.793804,10.088578,Burglar ,112,http://marvel.wikia.com/wiki/Burglar_(Earth-616),422,Burglar,Dennis Carradine (presumably),Burglar 
+-40.03746,-20.837233,Karl Lykos ,112,http://marvel.wikia.com/wiki/Karl_Lykos_(Earth-616),423,Sauron,Karl Lykos,Karl Lykos 
+-32.608864000000004,-12.807478,Sinthea Shmidt ,112,http://marvel.wikia.com/wiki/Sinthea_Shmidt_(Earth-616),424,Sin,Sinthea Shmidt,Sinthea Shmidt 
+24.963362,31.186876,Dorma ,112,http://marvel.wikia.com/wiki/Dorma_(Earth-616),425,Lady Dorma,Dorma,Dorma 
+-19.35489,41.57348,Robert Frank ,111,http://marvel.wikia.com/wiki/Robert_Frank_(Earth-616),426,Whizzer,Robert Frank,Robert Frank 
+-32.717859999999995,-17.141043,Elizabeth Twoyoungmen ,111,http://marvel.wikia.com/wiki/Elizabeth_Twoyoungmen_(Earth-616),427,Talisman,Elizabeth Twoyoungmen,Elizabeth Twoyoungmen 
+-0.07017098,-22.20708,Angelo Espinosa ,111,http://marvel.wikia.com/wiki/Angelo_Espinosa_(Earth-616),428,Skin,Angelo Espinosa,Angelo Espinosa 
+-36.24908,-25.968328,Dominikos Petrakis ,111,http://marvel.wikia.com/wiki/Dominikos_Petrakis_(Earth-616),429,Avalanche,Dominikos Ioannis Petrakis,Dominikos Petrakis 
+-23.236406,-11.257592,Katherine Power ,111,http://marvel.wikia.com/wiki/Katherine_Power_(Earth-616),430,Energizer,"Katherine ""Katie"" Margaret Power",Katie Power
+-55.734875,19.064417,Skurge ,111,http://marvel.wikia.com/wiki/Skurge_(Earth-616),431,Executioner,Skurge,Skurge 
+-19.085434,22.703712,Luna Maximoff ,110,http://marvel.wikia.com/wiki/Luna_Maximoff_(Earth-616),432,Luna,Luna Maximoff,Luna Maximoff 
+3.1514554,16.442370999999998,George Washington Bridge ,110,http://marvel.wikia.com/wiki/George_Washington_Bridge_(Earth-616),433,G.W. Bridge,George Washington Bridge,George Washington Bridge 
+-20.078863,49.56553,Heinrich Zemo ,110,http://marvel.wikia.com/wiki/Heinrich_Zemo_(Earth-616),434,Baron Zemo,Heinrich Zemo,Heinrich Zemo 
+-32.885555,-27.169647,Rita Wayword ,109,http://marvel.wikia.com/wiki/Rita_Wayword_(Earth-616),435,Spiral,Rita Wayword,Rita Wayword 
+-1.811558,19.963127,Silhouette Chord ,109,http://marvel.wikia.com/wiki/Silhouette_Chord_(Earth-616),436,Silhouette,Silhouette Chord,Silhouette Chord 
+-20.54256,-24.029306,Raza Longknife ,109,http://marvel.wikia.com/wiki/Raza_Longknife_(Earth-616),437,Raza,Raza Longknife,Raza Longknife 
+4.0009084,-29.952068,Layla Miller ,108,http://marvel.wikia.com/wiki/Layla_Miller_(Earth-616),438,Layla Miller,Layla Rose Miller-Madrox[citation needed],Layla Miller 
+-43.045494,-38.525356,Delroy Garrett Jr. ,108,http://marvel.wikia.com/wiki/Delroy_Garrett_Jr._(Earth-616),439,3-D Man,"Delroy Garrett, Jr.",Delroy Garrett Jr. 
+-56.73774,-5.973088,James Sanders ,108,http://marvel.wikia.com/wiki/James_Sanders_(Earth-616),440,Speed Demon,James Sanders,James Sanders 
+47.244595,-7.673310000000002,Clay Harder ,108,http://marvel.wikia.com/wiki/Clay_Harder_(Earth-616),441,Two-Gun Kid,Clay Harder,Clay Harder 
+-33.002403,16.269289,Ghost ,107,http://marvel.wikia.com/wiki/Ghost_(Earth-616),442,Ghost,Unknown,Ghost 
+-12.578407,-45.10913,Roxanne Washington ,107,http://marvel.wikia.com/wiki/Roxanne_Washington_(Earth-616),443,Bling!,Roxanne Washington,Roxanne Washington 
+-57.35869,10.41408,Azura ,106,http://marvel.wikia.com/wiki/Azura_(Earth-616),444,Thena,"Thena (changed by royal decree from her original name, Azura)",Azura 
+-45.229,-7.324707000000001,Blastaar ,106,http://marvel.wikia.com/wiki/Blastaar_(Earth-616),445,Blastaar,Blastaar,Blastaar 
+-46.789158,4.4244967000000015,Frederick Foswell ,105,http://marvel.wikia.com/wiki/Frederick_Foswell_(Earth-616),446,Big Man,"Frederick Foswell, Sr.",Frederick Foswell 
+-13.859592999999998,-44.557762,Ruth Aldine ,105,http://marvel.wikia.com/wiki/Ruth_Aldine_(Earth-616),447,Blindfold,Ruth Aldine,Ruth Aldine 
+5.1436660000000005,-1.3514125,Howard Hanover ,105,http://marvel.wikia.com/wiki/Howard_Hanover_(Earth-616),448,Harry Hanover,Howard Hanover,Howard Hanover 
+-26.064108,-30.908087,Selene Gallio ,105,http://marvel.wikia.com/wiki/Selene_Gallio_(Earth-616),449,Selene,Selene,Selene Gallio 
+-21.862986,-11.216126,Jack Power ,105,http://marvel.wikia.com/wiki/Jack_Power_(Earth-616),450,Mass Master,Jack Power,Jack Power 
+-47.387615,-7.436849,Pyreus Kril ,104,http://marvel.wikia.com/wiki/Pyreus_Kril_(Earth-616),451,Firelord,Pyreus Kril,Pyreus Kril 
+-6.763228999999999,38.7874,Bethany Cabe ,104,http://marvel.wikia.com/wiki/Bethany_Cabe_(Earth-616),452,Bethany Cabe,Bethany Camilla Cabe van Tilburg,Bethany Cabe 
+-31.754992,-32.15448,Everett Thomas ,104,http://marvel.wikia.com/wiki/Everett_Thomas_(Earth-616),453,Synch,Everett Thomas,Everett Thomas 
+-46.01677,-33.732395000000004,Elijah Bradley ,104,http://marvel.wikia.com/wiki/Elijah_Bradley_(Earth-616),454,Elijah Bradley,Elijah Bradley,Elijah Bradley 
+-12.932265,-15.02326,Margaret Carter ,104,http://marvel.wikia.com/wiki/Margaret_Carter_(Earth-616),455,The Dryad,"Margaret Alexandra ""Peggy"" Carter",Peggy Carter
+-9.029972,34.179,Clive Reston ,104,http://marvel.wikia.com/wiki/Clive_Reston_(Earth-616),456,Sir Clive Reston,Clive Reston,Clive Reston 
+-21.493143,-34.53363,Patricia Tilby ,103,http://marvel.wikia.com/wiki/Patricia_Tilby_(Earth-616),457,Trish Tilby,"Patricia ""Trish"" Tilby",Trish Tilby
+-8.941151,34.156665999999994,Leiko Wu ,103,http://marvel.wikia.com/wiki/Leiko_Wu_(Earth-616),458,Leiko Wu,Leiko Wu,Leiko Wu 
+-1.8990818,37.818756,Ulik ,103,http://marvel.wikia.com/wiki/Ulik_(Earth-616),459,Ulik,Ulik,Ulik 
+17.674788,53.798046,Andreas von Strucker ,102,http://marvel.wikia.com/wiki/Andreas_von_Strucker_(Earth-616),460,Black Knight,Andreas von Strucker,Andreas von Strucker 
+38.6868,-3.851362200000001,Shuri ,102,http://marvel.wikia.com/wiki/Shuri_(Earth-616),461,Aja-Adanna,Shuri,Shuri 
+-32.430378000000005,-25.634525,Vanisher ,102,http://marvel.wikia.com/wiki/Vanisher_(Earth-616),462,Vanisher,Unknown,Vanisher 
+-39.1329,10.191786,Jason Macendale Jr. ,102,http://marvel.wikia.com/wiki/Jason_Macendale_Jr._(Earth-616),463,Hobgoblin,"Jason Philip Macendale, Jr.",Jason Macendale Jr. 
+-19.983952,-34.056282,Jimaine Szardos ,102,http://marvel.wikia.com/wiki/Jimaine_Szardos_(Earth-616),464,Jimaine Szardos,Jimaine Szardos,Jimaine Szardos 
+-14.61285,4.790835,Michael Collins ,101,http://marvel.wikia.com/wiki/Michael_Collins_(Earth-616),465,Deathlok,"Michael ""Mike"" Collins",Mike Collins
+68.51153000000001,-8.487735,Molly Hayes ,101,http://marvel.wikia.com/wiki/Molly_Hayes_(Earth-616),466,Molly Hayes,Molly Hayes,Molly Hayes 
+-32.28229,-56.752357,Victoria Hand ,101,http://marvel.wikia.com/wiki/Victoria_Hand_(Earth-616),467,Victoria Hand,Victoria Louise Hand,Victoria Hand 
+-47.909016,-9.750233,Arnim Zola ,101,http://marvel.wikia.com/wiki/Arnim_Zola_(Earth-616),468,Arnim Zola,Arnim Zola,Arnim Zola 
+-8.27293,-21.026197,Adam Brashear ,101,http://marvel.wikia.com/wiki/Adam_Brashear_(Earth-616),469,Blue Marvel,Adam Bernard Brashear,Adam Brashear 
+4.642188,26.397154,Frankie Raye ,101,http://marvel.wikia.com/wiki/Frankie_Raye_(Earth-616),470,Nova,Frankie Raye,Frankie Raye 
+-43.672203,-12.724833,Attuma ,100,http://marvel.wikia.com/wiki/Attuma_(Earth-616),471,Attuma,Attuma,Attuma 
+-49.495728,-22.88491,Arthur Parks ,100,http://marvel.wikia.com/wiki/Arthur_Parks_(Earth-616),472,Living Laser,Arthur Parks,Arthur Parks 
+-20.157038,18.004368,Louise Grant ,100,http://marvel.wikia.com/wiki/Louise_Grant_(Earth-616),473,Blonde Phantom,Louise Grant-Mason,Louise Grant 
+-3.3449047,46.644524,Grand Vizier (Asgard) ,100,http://marvel.wikia.com/wiki/Grand_Vizier_(Asgard)_(Earth-616),474,Grand Vizier,Unknown,Grand Vizier (Asgard) 
+21.62075,31.811247,Vashti Cleito-Son ,100,http://marvel.wikia.com/wiki/Vashti_Cleito-Son_(Earth-616),475,Lord Vashti,Vashti Cleito-Son,Vashti Cleito-Son 
+-5.0925956,-10.420286,Carlie Cooper ,99,http://marvel.wikia.com/wiki/Carlie_Cooper_(Earth-616),476,Carlie Cooper,Carlie Cooper,Carlie Cooper 
+67.58241,-8.312104,Karolina Dean ,98,http://marvel.wikia.com/wiki/Karolina_Dean_(Earth-616),477,Karolina Dean,Karolina Dean,Karolina Dean 
+-55.374973,19.532843,Gaea ,98,http://marvel.wikia.com/wiki/Gaea_(Earth-616),478,Gaea,Gaea (also spelled Ge[citation needed] or Gaia),Gaea 
+-34.04504,-25.418993,Sally Blevins ,98,http://marvel.wikia.com/wiki/Sally_Blevins_(Earth-616),479,Sally Blevins,Sally Blevins,Sally Blevins 
+-22.88991,-30.827023,Donald Pierce ,98,http://marvel.wikia.com/wiki/Donald_Pierce_(Earth-616),480,Donald Pierce,Donald Pierce,Donald Pierce 
+-47.206207,-11.301158,Dennis Dunphy ,98,http://marvel.wikia.com/wiki/Dennis_Dunphy_(Earth-616),481,Dennis W Dunphy,Dennis W Dunphy,Dennis Dunphy 
+-7.1667323000000005,15.128135999999998,Rom ,98,http://marvel.wikia.com/wiki/Rom_(Earth-616),482,Rom,Rom,Rom 
+1.9838612,19.8624,Michiko Musashi ,97,http://marvel.wikia.com/wiki/Michiko_Musashi_(Earth-616),483,Turbo,"Michiko ""Mickey"" Musashi",Mickey Musashi
+-32.37028,-28.885504,David Haller ,97,http://marvel.wikia.com/wiki/David_Haller_(Earth-616),484,Legion,David Charles Haller,David Haller 
+47.745995,-9.356131,Matthew Masters ,97,http://marvel.wikia.com/wiki/Matthew_Masters_(Earth-616),485,Black Rider,Matthew Masters,Matthew Masters 
+-52.07165,-12.35665,Stranger (Cosmic Being) ,97,http://marvel.wikia.com/wiki/Stranger_(Cosmic_Being)_(Earth-616),486,Stranger,Unknown,Stranger (Cosmic Being) 
+-50.434498,-22.933338,William Cross ,97,http://marvel.wikia.com/wiki/William_Cross_(Earth-616),487,Crossfire,William Cross,William Cross 
+14.3506565,-31.623606,Joseph Chapman ,96,http://marvel.wikia.com/wiki/Joseph_Chapman_(Earth-616),488,Union Jack,Joseph Chapman,Joseph Chapman 
+17.226381,-51.771774,Skaar ,96,http://marvel.wikia.com/wiki/Skaar_(Earth-616),489,Skaar,Skaar,Skaar 
+19.222649,-32.467033,Tippy-Toe ,96,http://marvel.wikia.com/wiki/Tippy-Toe_(Earth-616),490,Tippy-Toe,Tippy-Toe,Tippy-Toe 
+-37.0377,27.512396000000006,Jill Stacy ,96,http://marvel.wikia.com/wiki/Jill_Stacy_(Earth-616),491,Jill Stacy,Jill Stacy,Jill Stacy 
+-29.699690000000004,-28.974936,Sebastion Gilberti ,96,http://marvel.wikia.com/wiki/Sebastion_Gilberti_(Earth-616),492,Bastion,Sebastion Gilberti (adopted name),Sebastion Gilberti 
+-41.027042,-11.890798,Eric Williams ,96,http://marvel.wikia.com/wiki/Eric_Williams_(Earth-616),493,Grim Reaper,Eric Williams,Eric Williams 
+-49.260166,-8.712850999999999,Samuel Saxon ,96,http://marvel.wikia.com/wiki/Samuel_Saxon_(Earth-616),494,Machinesmith,Samuel Saxon,Samuel Saxon 
+-1.0038452,36.999092,Tyr Odinson ,96,http://marvel.wikia.com/wiki/Tyr_Odinson_(Earth-616),495,Tyr,Tyr Odinson,Tyr Odinson 
+45.873962,-6.277633,Cyclone (Horse) ,96,http://marvel.wikia.com/wiki/Cyclone_(Horse)_(Earth-616),496,Cyclone,Cyclone,Cyclone (Horse) 
+55.93808000000001,-12.170282,Acroyear ,95,http://marvel.wikia.com/wiki/Acroyear_(Earth-616),497,Acroyear,Acroyear,Acroyear 
+-48.034737,-11.471623,William Foster ,95,http://marvel.wikia.com/wiki/William_Foster_(Earth-616),498,Goliath,"William Barrett ""Bill"" Foster",Bill Foster
+-50.64061,-21.64982,Edward Whelan ,95,http://marvel.wikia.com/wiki/Edward_Whelan_(Earth-616),499,Vermin,Edward Whelan,Edward Whelan 
+-47.316353,-5.4012080000000005,Satana Hellstrom ,95,http://marvel.wikia.com/wiki/Satana_Hellstrom_(Earth-616),500,Satana,Satana Hellstrom,Satana Hellstrom 
+-35.05717,-11.310777,Laynia Petrovna ,95,http://marvel.wikia.com/wiki/Laynia_Petrovna_(Earth-616),501,Darkstar,Laynia Sergeievna Petrovna (Krylova),Laynia Petrovna 
+-42.38032000000001,26.224120000000006,Norman Harold Osborn ,94,http://marvel.wikia.com/wiki/Norman_Harold_Osborn_(Earth-616),502,Normie Osborn,"Norman Harold ""Normie"" Osborn",Normie Osborn
+-25.892225,12.9479685,Zelda DuBois ,94,http://marvel.wikia.com/wiki/Zelda_DuBois_(Earth-616),503,Princess Python,Zelda DuBois,Zelda DuBois 
+-18.850044,23.637323,Nathaniel Richards ,94,http://marvel.wikia.com/wiki/Nathaniel_Richards_(Earth-616),504,Nathaniel Richards,Nathaniel Richards,Nathaniel Richards 
+-14.264558,-21.132196,Lemar Hoskins ,94,http://marvel.wikia.com/wiki/Lemar_Hoskins_(Earth-616),505,Battlestar,Lemar Hoskins,Lemar Hoskins 
+-35.686214,-26.21885,Irene Adler ,92,http://marvel.wikia.com/wiki/Irene_Adler_(Earth-616),506,Destiny,Irene Adler,Irene Adler 
+15.813586,-24.379547,Fin Fang Foom ,92,http://marvel.wikia.com/wiki/Fin_Fang_Foom_(Earth-616),507,Fin Fang Foom,Unknown (probably unpronounceable),Fin Fang Foom 
+-6.092610400000001,33.641968,Denis Nayland Smith ,92,http://marvel.wikia.com/wiki/Denis_Nayland_Smith_(Earth-616),508,Denis Nayland Smith,Sir Denis Nayland Smith,Denis Nayland Smith 
+68.49283,-8.484636,Victor Mancha ,91,http://marvel.wikia.com/wiki/Victor_Mancha_(Earth-616),509,Victor Mancha,Victor Mancha,Victor Mancha 
+-51.136356,-1.5515021999999998,Zarathos ,91,http://marvel.wikia.com/wiki/Zarathos_(Earth-616),510,Zarathos,Zarathos,Zarathos 
+-51.842144,-9.415841,Esteban Corazón de Ablo ,91,http://marvel.wikia.com/wiki/Esteban_Coraz%C3%B3n_de_Ablo_(Earth-616),511,Diablo,Esteban Corazón de Ablo,Esteban Corazón de Ablo 
+-18.079021,-38.64028,Cecilia Reyes ,90,http://marvel.wikia.com/wiki/Cecilia_Reyes_(Earth-616),512,Dr. Cecilia Reyes,"Cecilia ""Cel"" Reyes",Cel Reyes
+-50.151867,-23.532177,Ebenezer Laughton ,90,http://marvel.wikia.com/wiki/Ebenezer_Laughton_(Earth-616),513,Scarecrow,Ebenezer Laughton,Ebenezer Laughton 
+-39.421745,-12.32722,En Dwi Gast ,90,http://marvel.wikia.com/wiki/En_Dwi_Gast_(Earth-616),514,Grandmaster,En Dwi Gast,En Dwi Gast 
+-48.427856,-12.51603,Bonita Juarez ,90,http://marvel.wikia.com/wiki/Bonita_Juarez_(Earth-616),515,Firebird,Bonita Juarez,Bonita Juarez 
+-48.456223,-8.463891,Klaus Voorhees ,90,http://marvel.wikia.com/wiki/Klaus_Voorhees_(Earth-616),516,King Cobra,Klaus Voorhees,Klaus Voorhees 
+-53.020805,-9.166778,Samuel Smithers ,89,http://marvel.wikia.com/wiki/Samuel_Smithers_(Earth-616),517,Plantman,Samuel Smithers,Samuel Smithers 
+30.790607,-14.427123000000002,Cindy Moon ,89,http://marvel.wikia.com/wiki/Cindy_Moon_(Earth-616),518,Silk,Cindy Moon,Cindy Moon 
+-12.71234,23.820799,Joshua Walker ,89,http://marvel.wikia.com/wiki/Joshua_Walker_(Earth-616),519,Joshua Walker,Joshua Walker,Joshua Walker 
+-57.041862,-10.637163,Keniuchio Harada ,88,http://marvel.wikia.com/wiki/Keniuchio_Harada_(Earth-616),520,Silver Samurai,Keniuchio Harada,Keniuchio Harada 
+-25.54046,13.130606,Maynard Tiboldt ,88,http://marvel.wikia.com/wiki/Maynard_Tiboldt_(Earth-616),521,Ringmaster,Maynard Tiboldt,Maynard Tiboldt 
+-22.515232,-24.840666,Oracle (Sybil) ,88,http://marvel.wikia.com/wiki/Oracle_(Sybil)_(Earth-616),522,Oracle,Sybil,Oracle (Sybil) 
+21.745537,-37.985962,Nadia Pym ,88,https://marvel.fandom.com/wiki/Nadia_Van_Dyne_(Earth-616),608,Wasp,Nadia Van Dyne (legally changed from solely Nadia),Nadia Pym 
+5.6272736,13.116553,Bernadette Rosenthal ,88,http://marvel.wikia.com/wiki/Bernadette_Rosenthal_(Earth-616),524,Bernadette Rosenthal,Bernadette Rosenthal,Bernadette Rosenthal 
+-52.854836,-4.116112,Wilbur Day ,87,http://marvel.wikia.com/wiki/Wilbur_Day_(Earth-616),525,Stilt-Man,Wilbur Day,Wilbur Day 
+-55.241154,-12.512647,Marvin Flumm ,87,http://marvel.wikia.com/wiki/Marvin_Flumm_(Earth-616),526,Mentallo,Marvin Flumm,Marvin Flumm 
+-21.35529,25.446365,Bentley Wittman (Clone) ,87,http://marvel.wikia.com/wiki/Bentley_Wittman_(Clone)_(Earth-616),527,Bentley-23,Bentley Wittman,Bentley Wittman (Clone) 
+-50.53514000000001,-22.135338,Antonio Rodriguez ,87,http://marvel.wikia.com/wiki/Antonio_Rodriguez_(Earth-616),528,Armadillo,Antonio Rodriguez,Antonio Rodriguez 
+-9.31378,-47.666542,Broo ,87,http://marvel.wikia.com/wiki/Broo_(Earth-616),529,Broo,Unknown,Broo 
+3.2582273,16.801477,Irene Merryweather ,87,http://marvel.wikia.com/wiki/Irene_Merryweather_(Earth-616),530,Irene Merryweather,Irene Merryweather,Irene Merryweather 
+-49.7122,-24.976835,John Horton ,87,http://marvel.wikia.com/wiki/John_Horton_(Earth-616),531,Griffin,"John ""Johnny"" Horton",Johnny Horton
+-34.330845000000004,-16.707157000000002,Marrina Smallwood ,86,http://marvel.wikia.com/wiki/Marrina_Smallwood_(Earth-616),532,Marrina,Marrina Smallwood,Marrina Smallwood 
+19.603416,25.91631,Michael Duffy ,86,http://marvel.wikia.com/wiki/Michael_Duffy_(Earth-616),533,Sergeant Mike Duffy,"Michael Joseph ""Mike"" Duffy",Mike Duffy
+14.571939000000002,24.246572,Fred Davis Jr. ,86,http://marvel.wikia.com/wiki/Fred_Davis_Jr._(Earth-616),534,Fred Davis,"Fred Davis, Jr.",Fred Davis Jr. 
+-25.958017,-36.2514,John Greycrow ,85,http://marvel.wikia.com/wiki/John_Greycrow_(Earth-616),535,Scalphunter,John Greycrow,John Greycrow 
+-54.089474,-10.006709,Maximillian Coleridge ,85,http://marvel.wikia.com/wiki/Maximillian_Coleridge_(Earth-616),536,Shroud,Maximillian Quincy Coleridge,Maximillian Coleridge 
+-14.69881,47.963757,Eric Koenig ,85,http://marvel.wikia.com/wiki/Eric_Koenig_(Earth-616),537,Eric Koenig,Eric Koenig,Eric Koenig 
+-42.324642,5.822145,Sleepwalker ,85,http://marvel.wikia.com/wiki/Sleepwalker_(Earth-616),538,Sleepwalker,Unpronounceable by humans,Sleepwalker 
+-12.806307,23.873835,Tom Hale ,85,http://marvel.wikia.com/wiki/Tom_Hale_(Earth-616),539,Tom Hale,Tom Hale,Tom Hale 
+-11.327695,22.110733,Dorothy McConnell ,85,http://marvel.wikia.com/wiki/Dorothy_McConnell_(Earth-616),540,Dorothy Walker,Dorothy McConnell Walker,Dorothy McConnell 
+21.270874,-39.225403,Riri Williams ,84,http://marvel.wikia.com/wiki/Riri_Williams_(Earth-616),541,Riri Williams,Riri Williams,Riri Williams 
+-8.704274,-42.157295,Kavita Rao ,84,http://marvel.wikia.com/wiki/Kavita_Rao_(Earth-616),542,Dr. Kavita Rao,Dr. Kavita Rao,Kavita Rao 
+54.6358,-0.8930957,Night Raven (Vigilante) ,84,http://marvel.wikia.com/wiki/Night_Raven_(Vigilante)_(Earth-616),543,Night Raven,Unknown,Night Raven (Vigilante) 
+-8.615849,19.819244,Awesome Android ,83,http://marvel.wikia.com/wiki/Awesome_Android_(Earth-616),544,Awesome Andy,Awesome Android,Awesome Android 
+-29.02258,7.282931299999999,Michael Badilino ,83,http://marvel.wikia.com/wiki/Michael_Badilino_(Earth-616),545,Vengeance,Michael Badilino,Michael Badilino 
+-26.034985,-15.628688,Kenneth Hale ,83,http://marvel.wikia.com/wiki/Kenneth_Hale_(Earth-616),546,Gorilla-Man,Kenneth Hale,Kenneth Hale 
+-6.405463,14.8834,Brandy Clark ,83,http://marvel.wikia.com/wiki/Brandy_Clark_(Earth-616),547,Brandy Clark,Brandy Clark,Brandy Clark 
+-37.114384,-15.305285,Blanche Sitznski ,83,http://marvel.wikia.com/wiki/Blanche_Sitznski_(Earth-616),548,Anaconda,Blanche Sitznski,Blanche Sitznski 
+-39.50082800000001,-21.986252,Thomas Cassidy ,83,http://marvel.wikia.com/wiki/Thomas_Cassidy_(Earth-616),549,Black Tom Cassidy,"Thomas ""Tom"" Samuel Eamon Cassidy",Tom Cassidy
+-11.825842,-45.27244,Ben Hammil ,82,http://marvel.wikia.com/wiki/Ben_Hammil_(Earth-616),550,Match,Ben Hammil,Ben Hammil 
+-42.676712,-8.435921,Ego ,82,https://marvel.fandom.com/wiki/Egros_(Earth-616),609,Ego the Living Planet,Egros,Ego 
+12.756842,-36.36679,Eden Fesi ,82,http://marvel.wikia.com/wiki/Eden_Fesi_(Earth-616),552,Manifold,Eden Fesi,Eden Fesi 
+-30.294226,43.159412,Hades ,82,http://marvel.wikia.com/wiki/Hades_(Earth-616),553,Pluto,Hades (Greek name),Hades 
+-10.712254,-8.305032,Douglas Scott ,82,http://marvel.wikia.com/wiki/Douglas_Scott_(Earth-616),554,Razor-Fist,Douglas Scott,Douglas Scott 
+-43.650784,-7.739833,Tyros ,82,http://marvel.wikia.com/wiki/Tyros_(Earth-616),555,Terrax the Tamer,Tyros,Tyros 
+-51.053303,-7.491057400000001,Ivan Kragoff ,81,http://marvel.wikia.com/wiki/Ivan_Kragoff_(Earth-616),556,Red Ghost,Ivan Kragoff,Ivan Kragoff 
+-29.647184000000006,-24.531225,Maria Callasantos ,81,http://marvel.wikia.com/wiki/Maria_Callasantos_(Earth-616),557,Feral,Maria Callasantos,Maria Callasantos 
+66.19461,-8.019748,Old Lace ,81,http://marvel.wikia.com/wiki/Old_Lace_(Earth-616),558,Old Lace,Old Lace,Old Lace 
+-50.99617,-22.222284,Jerome Beechman ,80,http://marvel.wikia.com/wiki/Jerome_Beechman_(Earth-616),559,Mandrill,Jerome Beechman,Jerome Beechman 
+-23.047743,5.8145657,Roxanne Simpson ,80,http://marvel.wikia.com/wiki/Roxanne_Simpson_(Earth-616),560,Roxanne Blaze,Roxanne Simpson Blaze,Roxanne Simpson 
+-34.0025,25.628117,Nathan Lubensky ,80,http://marvel.wikia.com/wiki/Nathan_Lubensky_(Earth-616),561,Nathan R. Lubensky,Nathan R. Lubensky,Nathan Lubensky 
+-50.34708,-4.6722374,Richard Fisk ,80,http://marvel.wikia.com/wiki/Richard_Fisk_(Earth-616),562,The Rose,Richard Fisk,Richard Fisk 
+-41.503918,-9.154255,Owen Reece ,80,http://marvel.wikia.com/wiki/Owen_Reece_(Earth-616),563,Molecule Man,Owen Reece,Owen Reece 
+-53.94265,-1.6999866999999995,Hobie Brown ,80,http://marvel.wikia.com/wiki/Hobie_Brown_(Earth-616),564,Prowler,Hobie Brown,Hobie Brown 
+-1.5144942,36.171326,Surtur ,80,http://marvel.wikia.com/wiki/Surtur_(Earth-616),565,Surtur,Surtur,Surtur 
+-1.7566315,-36.75326,Barnell Bohusk ,80,http://marvel.wikia.com/wiki/Barnell_Bohusk_(Earth-616),566,Beak,Barnell Bohusk,Barnell Bohusk 
+-49.734207,9.215171,Sally Avril ,80,http://marvel.wikia.com/wiki/Sally_Avril_(Earth-616),567,Bluebird,Sally Avril,Sally Avril 
+4.99719,-40.388153,Criti Noll (Clone) ,79,http://marvel.wikia.com/wiki/Criti_Noll_(Clone)_(Earth-616),568,Yellowjacket,Criti Noll,Criti Noll (Clone) 
+-48.213226,-9.665213,Johann Fennhoff ,79,http://marvel.wikia.com/wiki/Johann_Fennhoff_(Earth-616),569,Doctor Faustus,Johann Fennhoff,Johann Fennhoff 
+-18.981781,23.057426,Highly Engineered Robot Built for Interdimensional Exploration ,79,http://marvel.wikia.com/wiki/Highly_Engineered_Robot_Built_for_Interdimensional_Exploration_(Earth-616),570,H.E.R.B.I.E.,Highly Engineered Robot Built for Interdimensional Exploration,Highly Engineered Robot Built for Interdimensional Exploration 
+-46.63392,-5.7469926,Zebediah Killgrave ,79,http://marvel.wikia.com/wiki/Zebediah_Killgrave_(Earth-616),571,Purple Man,Zebediah Killgrave,Zebediah Killgrave 
+-13.199041,-6.9764366,Lillian Crawley ,79,http://marvel.wikia.com/wiki/Lillian_Crawley_(Earth-616),572,Diamond Lil,Lillian Crawley Jeffries,Lillian Crawley 
+23.87227,22.235998,Jessán Hoan ,79,http://marvel.wikia.com/wiki/Jess%C3%A1n_Hoan_(Earth-616),573,Tyger Tiger,Jessán Hoan,Jessán Hoan 
+41.62036,-14.3191595,Lunella Lafayette ,79,http://marvel.wikia.com/wiki/Lunella_Lafayette_(Earth-616),574,Moon Girl,Lunella Louise Lafayette,Lunella Lafayette 
+47.41935,-8.423903999999999,Ichabod ,79,http://marvel.wikia.com/wiki/Ichabod_(Earth-616),575,Satan,Ichabod,Ichabod 
+-58.02768,11.381824,Gilgamesh ,79,http://marvel.wikia.com/wiki/Gilgamesh_(Earth-616),576,Gilgamesh,Unknown,Gilgamesh 
+-50.380035,-0.5515211999999999,Hannibal King ,79,http://marvel.wikia.com/wiki/Hannibal_King_(Earth-616),577,Hannibal King,Hannibal King,Hannibal King 
+-56.6489,-11.485801,Beyonder ,78,http://marvel.wikia.com/wiki/Beyonder_(Earth-616),578,Beyonder,Unknown,Beyonder 
+-53.30396999999999,-14.27389,Franklin Hall ,78,http://marvel.wikia.com/wiki/Franklin_Hall_(Earth-616),579,Graviton,Dr. Franklin Hall,Franklin Hall 
+-53.600826,-3.733673000000001,Silvio Manfredi ,78,http://marvel.wikia.com/wiki/Silvio_Manfredi_(Earth-616),580,Silvermane,Silvio Manfredi,Silvio Manfredi 
+-30.613813,-27.752293,Arkady Rossovich ,78,http://marvel.wikia.com/wiki/Arkady_Rossovich_(Earth-616),581,Omega Red,Arkady Gregorivich Rossovich,Arkady Rossovich 
+42.300766,-29.39826,Korg ,78,http://marvel.wikia.com/wiki/Korg_(Earth-616),582,Korg,Korg,Korg 
+10.536643,-41.458492,Ava Ayala ,78,http://marvel.wikia.com/wiki/Ava_Ayala_(Earth-616),583,White Tiger,Ava Ayala,Ava Ayala 
+-13.871326000000002,-5.2475495,Kara Killgrave ,78,http://marvel.wikia.com/wiki/Kara_Killgrave_(Earth-616),584,Purple Woman,Kara Killgrave,Kara Killgrave 
+-37.26824000000001,-15.3326235,Tanya Sealy ,78,http://marvel.wikia.com/wiki/Tanya_Sealy_(Earth-616),585,Black Mamba,Tanya Sealy,Tanya Sealy 
+-34.065002,-25.630198,Russell Collins ,77,http://marvel.wikia.com/wiki/Russell_Collins_(Earth-616),586,Rusty Collins,"Russell ""Rusty"" Collins",Rusty Collins
+10.51715,24.548273,Helen Takahama ,77,http://marvel.wikia.com/wiki/Helen_Takahama_(Earth-616),587,Jolt,Helen Takahama,Helen Takahama 
+-47.400707,-2.5501616,Phineas Mason ,77,http://marvel.wikia.com/wiki/Phineas_Mason_(Earth-616),588,Tinkerer,Phineas T. Mason,Phineas Mason 
+-11.984916,-45.115585,Hope Abbott ,77,http://marvel.wikia.com/wiki/Hope_Abbott_(Earth-616),589,Trance,Hope Abbott,Hope Abbott 
+47.178093,-24.371754,Elsa Bloodstone ,77,http://marvel.wikia.com/wiki/Elsa_Bloodstone_(Earth-616),590,Elsa Bloodstone,Elsa Bloodstone,Elsa Bloodstone 
+-34.240284,-25.695747,Cameron Hodge ,77,http://marvel.wikia.com/wiki/Cameron_Hodge_(Earth-616),591,Cameron Hodge,Cameron Hodge,Cameron Hodge 
+-41.843445,-13.941489,Luchino Nefaria ,77,http://marvel.wikia.com/wiki/Luchino_Nefaria_(Earth-616),592,Count Nefaria,Count Luchino Nefaria,Luchino Nefaria 
+10.683209,24.26556,Dallas Riordan ,77,http://marvel.wikia.com/wiki/Dallas_Riordan_(Earth-616),593,Dallas Riordan,Dallas Riordan,Dallas Riordan 
+-32.88475,-27.807829,Lila Cheney ,76,http://marvel.wikia.com/wiki/Lila_Cheney_(Earth-616),594,Lila Cheney,Lila Cheney,Lila Cheney 
+-43.102097,-2.463148,Marco Scarlotti ,76,http://marvel.wikia.com/wiki/Marco_Scarlotti_(Earth-616),595,Whiplash,Marco Scarlotti,Marco Scarlotti 
+-47.66727,-7.3917966,Nebula ,76,http://marvel.wikia.com/wiki/Nebula_(Earth-616),596,Nebula,Unknown,Nebula 
+9.448342,-45.01576,Jennifer Takeda ,76,http://marvel.wikia.com/wiki/Jennifer_Takeda_(Earth-616),597,Hazmat,Jennifer Takeda,Jennifer Takeda 
+-42.338394,-10.75956,Morgan le Fay ,76,http://marvel.wikia.com/wiki/Morgan_le_Fay_(Earth-616),598,Morgan le Fay,Morgan le Fay,Morgan le Fay 
+-28.670053000000006,-31.77548,Bennet du Paris ,76,http://marvel.wikia.com/wiki/Bennet_du_Paris_(Earth-616),599,Exodus,Bennet du Paris,Bennet du Paris 
+-49.764782,-4.102812,Thomas Fireheart ,75,http://marvel.wikia.com/wiki/Thomas_Fireheart_(Earth-616),600,Puma,Thomas Fireheart,Thomas Fireheart 
+52.997253,2.6482608,Dai Thomas ,75,http://marvel.wikia.com/wiki/Dai_Thomas_(Earth-616),601,Dai Thomas,Dai Thomas,Dai Thomas 
+-22.593267,4.125621,Stacy Dolan ,75,http://marvel.wikia.com/wiki/Stacy_Dolan_(Earth-616),602,Stacy Dolan,Stacy Dolan,Stacy Dolan 
+-40.393963,24.247427,Martha Franklin ,75,http://marvel.wikia.com/wiki/Martha_Franklin_(Earth-616),603,Spider-Woman,"Martha ""Mattie"" Franklin",Mattie Franklin
