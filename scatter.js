@@ -30,7 +30,7 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
   });
 
   // Add X axis
-  var x = d3.scaleLinear()
+  x = d3.scaleLinear()
     .domain(d3.extent(data, function(d) { return d.x; }))
     .range([ 10, width-10 ]);
   var xAxis = SVG.append("g")
@@ -38,12 +38,16 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
     .call(d3.axisBottom(x));
 
   // Add Y axis
-  var y = d3.scaleLinear()
+  y = d3.scaleLinear()
     .domain(d3.extent(data, function(d) { return d.y; }))
     .range([ height-10, 10]);
   var yAxis = SVG.append("g")
     .style("display","none")
     .call(d3.axisLeft(y));
+
+  // get over written later in zoom function, but needed for the scale when hovering over a dot if user has not zoomed yet
+  newX = x;
+  newY = y;
 
   // create circle radius size scale
   radius = d3.scaleSqrt()
@@ -117,11 +121,9 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
     .enter()
     .append("circle")
       .attr("class","dot")
-      // .attr("cx", function (d) { return x(d.x); } )
-      // .attr("cy", function (d) { return y(d.y); } )
-      .attr("transform", function(d){ return "translate(" + x(d.x) + "," + y(d.y) + ")"})
-      .attr("cx", function(d){return radius(d.appearances) / 2})
-      .attr("cy", function(d){return radius(d.appearances) / 2})
+       .attr("cx", function (d) { return x(d.x); } )
+       .attr("cy", function (d) { return y(d.y); } )
+      //.attr("transform", function(d){ return "translate(" + x(d.x) + "," + y(d.y) + ")"})
       .attr("r", function(d){return radius(d.appearances) / 2})
       .style("opacity", 1)
       .style("fill", "#fff")
@@ -131,7 +133,16 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
 
         // bring selected character to top
         d3.select(this).raise();
-        
+
+        //d3.select(this).transition().duration(100).attr('transform', 'scale(2)');
+        var x_value = newX(d.x),
+          y_value = newY(d.y),
+          factor = 2;
+        var tx = -x_value * (factor - 1),
+          ty = -y_value * (factor - 1);
+        d3.select(this).transition().duration(50)
+          .attr("transform", "translate(" + tx + "," + ty + ") scale(" + factor + ")");
+
         if (d.superName.trim() != d.nickName.trim()){
           var text = "<b>" + d.superName + "</b><br> " +d.nickName + "</br>";
         }
@@ -147,6 +158,16 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
          .style("top", event.pageY + 5 + "px")
     })
     .on("mouseout", function(d){
+
+      //d3.select(this).transition().duration(1000).attr('transform', 'translate(' + x(d.x) + "," + y(d.y) + ') scale(1)');
+      var x_value = x(d.x),
+        y_value = y(d.y),
+        factor = 1;
+      var tx = -x_value * (factor - 1),
+        ty = -y_value * (factor - 1);
+      d3.select(this).transition().duration(50)
+        .attr("transform", "translate(" + tx + "," + ty + ") scale(" + factor + ")");
+
       return tooltip
       .style("visibility", "hidden")
   });
@@ -166,8 +187,8 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
   function updateChart() {
 
     // recover the new scale
-    var newX = d3.event.transform.rescaleX(x);
-    var newY = d3.event.transform.rescaleY(y);
+    newX = d3.event.transform.rescaleX(x);
+    newY = d3.event.transform.rescaleY(y);
     
     // update axes with these new boundaries
     xAxis.call(d3.axisBottom(newX))
