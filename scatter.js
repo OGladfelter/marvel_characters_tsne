@@ -127,14 +127,14 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
       .attr("r", function(d){return radius(d.appearances) / 2})
       .style("opacity", 1)
       .style("fill", "#fff")
-      //.style("pointer-events", "none")
+      .style("visibility", function(d) { if (d.pic_id <= 100) return "visible"; else return "hidden"})
       .style("fill", function(d){ return "url(#grump_avatar" + d.pic_id})
       .on("mouseover", function(d){
 
         // bring selected character to top
         d3.select(this).raise();
 
-        //d3.select(this).transition().duration(100).attr('transform', 'scale(2)');
+        // increase circle by 2x, while maintaining position
         var x_value = newX(d.x),
           y_value = newY(d.y),
           factor = 2;
@@ -150,16 +150,26 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
           var text = "<b>" + d.superName + "</b>"
         }
 
-        return tooltip
+        // used to offset the tooltip below, so tooltip appears at bottom of circle
+        var circleRadius = d3.select(this).attr("r");
+
+        // Returns a DOMMatrix representing the matrix that transforms the current element's 
+        // coordinate system to the coordinate system of the SVG viewpor
+        var matrix = this.getScreenCTM()
+            .translate(+this.getAttribute("cx"),
+                     +this.getAttribute("cy"));
+
+        // use matrix from above and window.page_Offset for perfect placement
+      return tooltip
         .style("visibility", "visible")
         .html(text)
         .transition().duration(500)
-         .style("left", event.pageX + 5 + "px")
-         .style("top", event.pageY + 5 + "px")
-    })
+        .style("left", window.pageXOffset + matrix.e - (tooltip.style("width").replace("px","") / 2) + "px") // subtract half width of tooltip with text to horizontally center
+        .style("top", window.pageYOffset + matrix.f + (circleRadius * 2) - 10 + "px"); // multiply circleRadius by 2 because circleRadius is from pre-scaled circle
+      })
     .on("mouseout", function(d){
 
-      //d3.select(this).transition().duration(1000).attr('transform', 'translate(' + x(d.x) + "," + y(d.y) + ') scale(1)');
+      // decrease circle by 2x, while maintaining position
       var x_value = x(d.x),
         y_value = y(d.y),
         factor = 1;
@@ -208,5 +218,37 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
       .attr('cy', function(d) {return newY(d.y)})
       //.attr('r', function(d)  {return radius(d.appearances) + k});
   }
+
+  var slider = document.getElementById("myRange");
+  // Update the current slider value (each time you drag the slider handle)
+  slider.oninput = function() {
+    var value = Number(this.value);
+    circles.style("visibility", function(d) { if (d.pic_id <= value) return "visible"; else return "hidden"})
+  }
+
+  // function to activate when team selector is changed
+  document.getElementById("teamSelector").onchange = function(){
+
+    // reset
+    circles.style('opacity',1);
+
+    if (document.getElementById("teamSelector").value == 'All'){
+      return // nothing else needed
+    }
+
+    // otherwise, lower opacity of 'out of group' characters
+    circles.style('opacity', function(d){
+      if (d.teams.includes(document.getElementById("teamSelector").value)){
+        return 1;
+      }
+      else{
+        return 0.1;
+      }
+    })
+
+    // anyone who is in the team gets raised above characters not in team
+    circles.filter(function(d){return d.teams.includes(document.getElementById("teamSelector").value)}).raise();
+  };
+
 
 })
