@@ -41,6 +41,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="css/style.css">
     <!-- Load d3.js -->
@@ -65,51 +66,68 @@
     <!-- scatter plot here -->
     <div id="scatterplot"></div>
 
-    <div class="slidecontainer">
-        <input type="range" min="10" max="609" value="300" class="slider" id="myRange">
+    <div class="row">
+        <div class="column">
+            <h3>Number Of Characters</h3>
+            <p style="width:75%; margin-left:auto; margin-right:auto; margin-top:0px;">Control how many characters are visible</p>
+            <div class="slidecontainer">
+                <input type="range" min="10" max="609" value="300" class="slider" id="myRange">
+            </div>
+        </div>
+        <div class="column">
+            <h3>Highlight By Team</h3>
+            <p style="width:75%; margin-left:auto; margin-right:auto; margin-top:0px;">Select any team to highlight its members</p>
+            <select name="teamSelector" id="teamSelector">
+                <option value="All" style="font-weight: bold;">All Characters</option>
+                <option value="A.I.M.">A.I.M.</option>
+                <option value="Alpha Flight">Alpha Flight</option>
+                <option value="Avengers">Avengers</option>
+                <option value="Brotherhood of Evil Mutants">Brotherhood of Evil Mutants</option>
+                <option value="Defenders">Defenders</option>
+                <option value="Defenders for a Day">Defenders for a Day</option>
+                <option value="Excalibur">Excalibur</option>
+                <option value="Fantastic Four">Fantastic Four</option>
+                <option value="Formerly X-Men">Formerly X-Men</option>
+                <option value="Frightful Four">Frightful Four</option>
+                <option value="Guardians of the Galaxy">Guardians of the Galaxy</option>
+                <option value="Hellfire Club">Hellfire Club</option>
+                <option value="Heroes for Hire">Heroes for Hire</option>
+                <option value="Hounds">Hounds</option>
+                <option value="Hydra">Hydra</option>
+                <option value="Illuminati">Illuminati</option>
+                <option value="Initiative">Initiative</option>
+                <option value="Legion Accursed">Legion Accursed</option>
+                <option value="Legion of the Unliving">Legion of the Unliving</option>
+                <option value="Lethal Legion">Lethal Legion</option>
+                <option value="Masters of Evil">Masters of Evil</option>
+                <option value="Mighty Avengers">Mighty Avengers</option>
+                <option value="New Avengers">New Avengers</option>
+                <option value="New Warriors">New Warriors</option>
+                <option value="S.H.I.E.L.D.">S.H.I.E.L.D.</option>
+                <option value="Secret Avengers">Secret Avengers</option>
+                <option value="Secret Defenders">Secret Defenders</option>
+                <option value="Sinister Six">Sinister Six</option>
+                <option value="Thunderbolts">Thunderbolts</option>
+                <option value="Underground">Underground</option>
+                <option value="X-Corporation">X-Corporation</option>
+                <option value="X-Factor">X-Factor</option>
+                <option value="X-Force">X-Force</option>
+                <option value="X-Men">X-Men</option>
+            </select>
+        </div>
+        <div class="column">
+            <h3>Find A Character</h3>
+            <p style="width:75%; margin-left:auto; margin-right:auto; margin-top:0px;">Search for any character in the graph</p>
+            <!-- <input type="text" placeholder="Peter Parker..."> -->
+            <div class="autocomplete"><input id="myInput" type="text" name="myCountry" placeholder="Peter Parker..."></div>
+            <button id="searchButton" type="submit" onclick="search_button()"><i class="fa fa-search"></i></button>
+        </div>
     </div>
-
-    <select name="teamSelector" id="teamSelector">
-        <option value="All" style="font-weight: bold;">All Characters</option>
-        <option value="A.I.M.">A.I.M.</option>
-        <option value="Alpha Flight">Alpha Flight</option>
-        <option value="Avengers">Avengers</option>
-        <option value="Brotherhood of Evil Mutants">Brotherhood of Evil Mutants</option>
-        <option value="Defenders">Defenders</option>
-        <option value="Defenders for a Day">Defenders for a Day</option>
-        <option value="Excalibur">Excalibur</option>
-        <option value="Fantastic Four">Fantastic Four</option>
-        <option value="Formerly X-Men">Formerly X-Men</option>
-        <option value="Frightful Four">Frightful Four</option>
-        <option value="Guardians of the Galaxy">Guardians of the Galaxy</option>
-        <option value="Hellfire Club">Hellfire Club</option>
-        <option value="Heroes for Hire">Heroes for Hire</option>
-        <option value="Hounds">Hounds</option>
-        <option value="Hydra">Hydra</option>
-        <option value="Illuminati">Illuminati</option>
-        <option value="Initiative">Initiative</option>
-        <option value="Legion Accursed">Legion Accursed</option>
-        <option value="Legion of the Unliving">Legion of the Unliving</option>
-        <option value="Lethal Legion">Lethal Legion</option>
-        <option value="Masters of Evil">Masters of Evil</option>
-        <option value="Mighty Avengers">Mighty Avengers</option>
-        <option value="New Avengers">New Avengers</option>
-        <option value="New Warriors">New Warriors</option>
-        <option value="S.H.I.E.L.D.">S.H.I.E.L.D.</option>
-        <option value="Secret Avengers">Secret Avengers</option>
-        <option value="Secret Defenders">Secret Defenders</option>
-        <option value="Sinister Six">Sinister Six</option>
-        <option value="Thunderbolts">Thunderbolts</option>
-        <option value="Underground">Underground</option>
-        <option value="X-Corporation">X-Corporation</option>
-        <option value="X-Factor">X-Factor</option>
-        <option value="X-Force">X-Force</option>
-        <option value="X-Men">X-Men</option>
-    </select>
 
     <!-- Scripts -->
     <script src="js/scatter.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/autocomplete.js"></script>
     
     <!-- END OF ARTICLE -->
    

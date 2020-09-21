@@ -120,7 +120,7 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
     .enter()
     .append("circle")
       .attr("class","dot")
-      .attr("id", function (d) { return d.pic_id; } )
+      .attr("id", function (d) { return "id_" + d.pic_id; } )
       .attr("cx", function (d) { return x(d.x); } )
       .attr("cy", function (d) { return y(d.y); } )
       //.attr("transform", function(d){ return "translate(" + x(d.x) + "," + y(d.y) + ")"})
@@ -219,6 +219,7 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
       //.attr('r', function(d)  {return radius(d.appearances) + k});
   }
 
+  // slider code
   var slider = document.getElementById("myRange");
   // Update the current slider value (each time you drag the slider handle)
   slider.oninput = function() {
@@ -226,4 +227,27 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
     circles.style("visibility", function(d) { if (d.pic_id <= value) return "visible"; else return "hidden"})
   }
 
-})
+  // zoom in function - used for search button
+  function zoomInHere(x,y) {
+    SVG.transition().ease(d3.easeLinear).duration(2000).call(
+      zoom.transform,
+      d3.zoomIdentity.translate(width / 2, height / 2).scale(8).translate(-x, -y)
+    )
+  };
+
+  // search button code
+  document.getElementById("searchButton").onclick = function(){
+
+    var search_bar_value = document.getElementById("myInput").value;
+    var search_results = data.filter(function(c){return (c.superName.trim() == search_bar_value.trim()) || (c.nickName.trim() == search_bar_value.trim())});
+    
+    d3.select("#id_" + search_results[0].pic_id).style('visibility', 'visible');
+    
+    // for top result, zoom in on circle's (x,y) coordinates
+    zoomInHere(x(search_results[0].x), y(search_results[0].y));
+
+    // bring it to the top
+    d3.select("#id_" + search_results[0].pic_id).raise();
+  };
+
+});
