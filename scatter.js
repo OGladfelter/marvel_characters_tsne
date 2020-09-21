@@ -105,7 +105,6 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
       .attr("height", 1)
       .attr("patternUnits", "objectBoundingBox")
       .append("svg:image")
-      .attr("id", "test")
       .attr("xlink:href", "img_square/" + d.pic_id + ".jpg")
       .attr("width", radius(d.appearances))
       .attr("height", radius(d.appearances))
@@ -121,8 +120,9 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
     .enter()
     .append("circle")
       .attr("class","dot")
-       .attr("cx", function (d) { return x(d.x); } )
-       .attr("cy", function (d) { return y(d.y); } )
+      .attr("id", function (d) { return d.pic_id; } )
+      .attr("cx", function (d) { return x(d.x); } )
+      .attr("cy", function (d) { return y(d.y); } )
       //.attr("transform", function(d){ return "translate(" + x(d.x) + "," + y(d.y) + ")"})
       .attr("r", function(d){return radius(d.appearances) / 2})
       .style("opacity", 1)
@@ -225,30 +225,5 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
     var value = Number(this.value);
     circles.style("visibility", function(d) { if (d.pic_id <= value) return "visible"; else return "hidden"})
   }
-
-  // function to activate when team selector is changed
-  document.getElementById("teamSelector").onchange = function(){
-
-    // reset
-    circles.style('opacity',1);
-
-    if (document.getElementById("teamSelector").value == 'All'){
-      return // nothing else needed
-    }
-
-    // otherwise, lower opacity of 'out of group' characters
-    circles.style('opacity', function(d){
-      if (d.teams.includes(document.getElementById("teamSelector").value)){
-        return 1;
-      }
-      else{
-        return 0.1;
-      }
-    })
-
-    // anyone who is in the team gets raised above characters not in team
-    circles.filter(function(d){return d.teams.includes(document.getElementById("teamSelector").value)}).raise();
-  };
-
 
 })
