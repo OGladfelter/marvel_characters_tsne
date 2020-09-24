@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    line-height: 160%; 
+    line-height: 150%; 
     font-size: 16px;  
     margin: 0;  
     z-index:1;
@@ -16,7 +16,7 @@ a:hover {text-decoration: underline; background-color: #98ffff;}
 .navbar {
     overflow: hidden;
     background-color: #0e005e;
-    position: fixed; /* Set the navbar to fixed position */
+    /* position: fixed; Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
     z-index: 999;
@@ -50,13 +50,13 @@ span { font-size: 20px; font-family: Georgia, "Sans-serif", serif;}
 article { text-align: left; width: 90%; margin: 0 auto;}
 h1 { font-size: 48px; margin: 40px 10px 30px 10px; font-weight: bold; line-height: 54px;}
 h2 { font-size: 32px; margin: 10px 10px 30px 10px; font-weight: bold; font-weight: normal; line-height: 38px;}
-h3 { font-size: 18px; margin: 30px 10px 10px 10px; font-weight: bold; line-height: 24px;}
+h3 { font-size: 18px; margin: 5px 5px 5px 5px; font-weight: bold; line-height: 24px;}
 
 @media only screen and (min-width: 768px) {
   article { text-align: left; width: 50%; margin: 0 auto;}
   h1 { font-size: 52px; margin: 40px 10px 30px 10px; font-weight: bold; line-height: 56px;}
   h2 { font-size: 30px; margin: 10px 10px 30px 10px; font-weight: bold; font-weight: normal; line-height: 36px;}
-  h3 { font-size: 22px; margin: 10px 10px 10px 10px; font-weight: bold; line-height: 28px;}
+  h3 { font-size: 22px; margin: 5px 5px 5px 5px; font-weight: bold; line-height: 28px;}
 }
 
 ::-moz-selection { /* Code for Firefox */
@@ -73,14 +73,20 @@ h3 { font-size: 18px; margin: 30px 10px 10px 10px; font-weight: bold; line-heigh
 div.tooltip {	
     position: absolute;			
     text-align: center;			
-    padding: 2px;				
-    font: 16px sans-serif;		
-    background: white;	
+    padding: 5px;		
+    line-height: 120%; 		
+    font: 16px Georgia;		
+    background: whitesmoke;	
     border: solid;
     border: 1px solid black;		
-    border-radius: 5px;			
-    pointer-events: none;			
+    border-radius: 4px;			
+    pointer-events: none;	
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 7px;		
 }
+
+/* svg{
+    background-color: whitesmoke;
+} */
 
 .breaker{
     color : #0e005e;
@@ -136,15 +142,7 @@ img{
     }
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.row {
-    display: flex;
-}
-  
-.column {
-    flex: 33.33%;
-    padding: 5px;
-}
+
 
 sup { 
     vertical-align: top; 
@@ -205,9 +203,14 @@ sup:hover{
 .column {
     float: left;
     width: 33.33%;
-    padding: 10px;
+    /* padding: 10px; */
     background-color: white;
-    height: 300px; /* Should be removed. Only for demonstration */
+    height: 300px;
+    font-family: "helvetica", "open sans";
+}
+
+.row{
+    margin-top: 0px;
 }
 
 /* Clear floats after the columns */
@@ -268,7 +271,7 @@ select{
   
   .autocomplete-items {
     position: absolute;
-    border: 1px solid #d4d4d4;
+    /* border: 1px solid #d4d4d4; */
     border-bottom: none;
     border-top: none;
     z-index: 99;
@@ -283,6 +286,8 @@ select{
     cursor: pointer;
     background-color: #fff; 
     border-bottom: 1px solid #d4d4d4; 
+    border-right: 1px solid #d4d4d4;
+    border-left: 1px solid #d4d4d4;
   }
   
   .autocomplete-items div:hover {
@@ -294,4 +299,9 @@ select{
     /*when navigating through the items using the arrow keys:*/
     background-color: DodgerBlue !important; 
     color: #ffffff; 
+  }
+
+  #myInputautocomplete-list{
+      height: 200px;
+      overflow: auto;
   }

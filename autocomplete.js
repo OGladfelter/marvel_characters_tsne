@@ -91,8 +91,6 @@ function autocomplete(inp, arr) {
     /*execute a function when someone clicks in the document:*/
     document.addEventListener("click", function (e) {
         closeAllLists(e.target);
-        // simulate a click on the search button
-        //document.getElementById("searchButton").click()
         });
   }
   

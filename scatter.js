@@ -231,7 +231,7 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
   function zoomInHere(x,y) {
     SVG.transition().ease(d3.easeLinear).duration(2000).call(
       zoom.transform,
-      d3.zoomIdentity.translate(width / 2, height / 2).scale(8).translate(-x, -y)
+      d3.zoomIdentity.translate(width / 2, height / 2).scale(16).translate(-x, -y)
     )
   };
 
@@ -239,6 +239,10 @@ d3.csv("data/Top_Marvel_characters_With_Metadata.csv", function(data) {
   document.getElementById("searchButton").onclick = function(){
 
     var search_bar_value = document.getElementById("myInput").value;
+
+    if (search_bar_value == "" || search_bar_value == " "){
+      return
+    }
     var search_results = data.filter(function(c){return (c.superName.trim() == search_bar_value.trim()) || (c.nickName.trim() == search_bar_value.trim())});
     
     d3.select("#id_" + search_results[0].pic_id).style('visibility', 'visible');
